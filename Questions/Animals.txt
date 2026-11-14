@@ -1,0 +1,124 @@
+Question: Name a big cat
+
+Answers:
+Lion - Seagull
+Tiger - Seagull
+Leopard - Cloud
+Cheetah - Cloud
+Jaguar - Cloud
+Panther - Cloud
+Cougar | Puma | Mountain Lion - Plane
+Snow Leopard - Plane
+Liger - Plane
+Clouded Leopard - Rare
+Tigon - Rare
+Sunda Clouded Leopard - One in Ballolion
+
+Question: Name a farm animal
+
+Answers:
+Cow | Cattle - Seagull
+Pig | Hog - Seagull
+Chicken | Hen - Seagull
+Sheep | Lamb - Seagull
+Horse - Seagull
+Goat - Cloud
+Duck - Cloud
+Turkey - Cloud
+Donkey - Cloud
+Goose - Plane
+Rabbit - Plane
+Bull - Plane
+Ox - Plane
+Rooster - Plane
+Llama - Rare
+Alpaca - Rare
+Buffalo - Rare
+Quail - Rare
+Ostrich - Rare
+Emu - One in Ballolion
+Yak - Rare
+Camel - Rare
+
+Question: Name a bird of prey
+
+Answers:
+Eagle - Seagull
+Hawk - Seagull
+Falcon - Seagull
+Owl - Seagull
+Vulture - Cloud
+Buzzard - Cloud
+Kite - Cloud
+Osprey - Cloud
+Harrier - Plane
+Kestrel - Plane
+Condor - Plane
+Peregrine Falcon - Plane
+Golden Eagle - Plane
+Bald Eagle - Plane
+Goshawk - Rare
+Sparrowhawk - Rare
+Secretary Bird - Rare
+Harpy Eagle - Rare
+Gyrfalcon - Rare
+Merlin - Rare
+Lammergeier | Bearded Vulture - One in Ballolion
+Caracara - Rare
+
+Question: Name a primate
+
+Answers:
+Monkey - Seagull
+Gorilla - Seagull
+Chimpanzee | Chimp - Seagull
+Orangutan | Orang-utan - Seagull
+Baboon - Cloud
+Gibbon - Cloud
+Lemur - Cloud
+Bonobo - Cloud
+Human - Plane
+Mandrill - Plane
+Macaque - Plane
+Capuchin - Plane
+Marmoset - Plane
+Tarsier - Plane
+Spider Monkey - Plane
+Howler Monkey - Plane
+Aye-aye | Aye Aye - Rare
+Loris - Rare
+Bushbaby | Galago - Rare
+Tamarin - Rare
+Langur - Rare
+Colobus - Rare
+Proboscis Monkey - Rare
+Siamang - Rare
+Gelada - One in Ballolion
+Drill - Rare
+Sifaka - Rare
+Indri - Rare
+
+Question: Name a type of shark
+
+Answers:
+Great White Shark | Great White - Seagull
+Hammerhead | Hammerhead Shark - Seagull
+Tiger Shark - Seagull
+Whale Shark - Cloud
+Bull Shark - Cloud
+Mako | Shortfin Mako | Mako Shark - Cloud
+Nurse Shark - Cloud
+Blue Shark - Plane
+Thresher Shark | Thresher - Plane
+Lemon Shark - Plane
+Reef Shark - Plane
+Basking Shark - Plane
+Goblin Shark - Plane
+Megalodon - Plane
+Megamouth | Megamouth Shark - Rare
+Greenland Shark - Rare
+Cookiecutter Shark - Rare
+Wobbegong - Rare
+Angel Shark - Rare
+Frilled Shark - One in Ballolion
+Sleeper Shark - Rare

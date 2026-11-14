@@ -1,0 +1,209 @@
+Question: Name a fruit
+
+Answers:
+Apple - Seagull
+Banana - Seagull
+Orange - Seagull
+Strawberry - Seagull
+Grapes | Grape - Seagull
+Pear - Cloud
+Peach - Cloud
+Watermelon - Cloud
+Cherry - Cloud
+Lemon - Cloud
+Pineapple - Cloud
+Mango - Cloud
+Kiwi - Cloud
+Plum - Cloud
+Melon - Cloud
+Raspberry - Cloud
+Blueberry - Cloud
+Apricot - Plane
+Lime - Plane
+Grapefruit - Plane
+Pomegranate - Plane
+Coconut - Plane
+Fig - Plane
+Blackberry - Plane
+Tangerine | Mandarin - Plane
+Papaya - Plane
+Avocado - Plane
+Nectarine - Plane
+Cantaloupe - Plane
+Passion Fruit - Plane
+Cranberry - Plane
+Dragon Fruit | Pitaya - Rare
+Lychee - Rare
+Guava - Rare
+Persimmon - Rare
+Quince - Rare
+Date - Rare
+Currant - Rare
+Gooseberry - Rare
+Mulberry - Rare
+Clementine - Rare
+Starfruit | Carambola - Rare
+Kumquat - Rare
+Elderberry - Rare
+Durian - One in Ballolion
+Jackfruit - Rare
+Rambutan - Rare
+Mangosteen - Rare
+Tamarind - Rare
+Soursop - Rare
+Cherimoya - Rare
+Loquat - Rare
+Physalis | Cape Gooseberry - Rare
+
+Question: Name a vegetable
+
+Answers:
+Carrot - Seagull
+Potato - Seagull
+Tomato - Seagull
+Onion - Seagull
+Broccoli - Cloud
+Cucumber - Cloud
+Lettuce - Cloud
+Pepper | Bell Pepper - Cloud
+Corn | Sweetcorn - Cloud
+Cabbage - Cloud
+Spinach - Cloud
+Garlic - Cloud
+Peas | Pea - Cloud
+Cauliflower - Cloud
+Celery - Plane
+Zucchini | Courgette - Plane
+Eggplant | Aubergine - Plane
+Beetroot | Beet - Plane
+Radish - Plane
+Pumpkin - Plane
+Sweet Potato - Plane
+Asparagus - Plane
+Leek - Plane
+Green Beans | Beans | Bean - Plane
+Turnip - Plane
+Brussels Sprouts - Plane
+Kale - Plane
+Squash - Plane
+Artichoke - Rare
+Fennel - Rare
+Parsnip - Rare
+Okra - Rare
+Bok Choy - Rare
+Rhubarb - Rare
+Kohlrabi - Rare
+Celeriac - Rare
+Swede | Rutabaga - Rare
+Arugula | Rocket - Rare
+Chard | Swiss Chard - Rare
+Shallot - Rare
+Scallion | Spring Onion - Rare
+Watercress - Rare
+Endive - Rare
+Salsify - One in Ballolion
+Romanesco - Rare
+Daikon - Rare
+Jicama - Rare
+Cassava - Rare
+Taro - Rare
+Yam - Rare
+Radicchio - Rare
+Sunchoke | Jerusalem Artichoke - Rare
+Fiddlehead - Rare
+
+Question: Name a type of pasta
+
+Answers:
+Spaghetti - Seagull
+Penne - Seagull
+Macaroni - Seagull
+Lasagna | Lasagne - Seagull
+Fettuccine | Fettuccini - Cloud
+Ravioli - Cloud
+Tagliatelle - Cloud
+Fusilli - Cloud
+Linguine - Cloud
+Tortellini - Cloud
+Farfalle - Cloud
+Rigatoni - Cloud
+Orzo - Plane
+Cannelloni - Plane
+Pappardelle - Plane
+Conchiglie | Shells - Plane
+Vermicelli - Plane
+Angel Hair | Capellini - Plane
+Ziti - Plane
+Bucatini - Plane
+Orecchiette - Plane
+Manicotti - Plane
+Rotini - Plane
+Cavatappi - Rare
+Gemelli - Rare
+Paccheri - Rare
+Radiatori - Rare
+Trofie - Rare
+Strozzapreti - Rare
+Tortelloni - Rare
+Ditalini - Rare
+Casarecce - Rare
+Mafalde - Rare
+Anelli - One in Ballolion
+Fregola - Rare
+Campanelle - Rare
+Pastina - Rare
+Cavatelli - Rare
+Garganelli - Rare
+
+Question: Name a type of cheese
+
+Answers:
+Cheddar - Seagull
+Mozzarella - Seagull
+Parmesan - Seagull
+Feta - Seagull
+Brie - Cloud
+Gouda - Cloud
+Swiss | Emmental | Emmenthal - Cloud
+Camembert - Cloud
+Blue Cheese - Cloud
+Cream Cheese - Cloud
+Cottage Cheese - Cloud
+Gorgonzola - Cloud
+Ricotta - Plane
+Halloumi - Plane
+Mascarpone - Plane
+Provolone - Plane
+Edam - Plane
+Havarti - Plane
+Pecorino - Plane
+Roquefort - Plane
+Monterey Jack - Plane
+Colby - Plane
+Gruyere | Gruyère - Plane
+Manchego - Plane
+Stilton - Plane
+Goat Cheese | Chevre - Plane
+Sirene | Bulgarian White Cheese - Plane
+Kashkaval | Kashkaval Cheese - Rare
+Asiago - Rare
+Fontina - Rare
+Jarlsberg - Rare
+Muenster - Rare
+Paneer - Rare
+Burrata - Rare
+Taleggio - Rare
+Raclette - Rare
+Cotija - Rare
+Queso Fresco - Rare
+Comte | Comté - Rare
+Limburger - Rare
+Red Leicester - Rare
+Epoisses | Époisses - One in Ballolion
+Casu Marzu - Rare
+Vacherin - Rare
+Reblochon - Rare
+Cashel Blue - Rare
+Mimolette - Rare
+Appenzeller - Rare
+Port Salut - Rare

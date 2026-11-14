@@ -1,0 +1,368 @@
+Question: Name a country in Europe
+
+Answers:
+Germany - Seagull
+France - Seagull
+Italy - Seagull
+Spain - Seagull
+United Kingdom | UK | Great Britain | Britain | England | Scotland | Wales | Northern Ireland - Seagull
+Russia | Russian Federation - Seagull
+Greece - Seagull
+Portugal - Seagull
+Bulgaria - Cloud
+Netherlands | Holland - Cloud
+Belgium - Cloud
+Switzerland - Cloud
+Austria - Cloud
+Sweden - Cloud
+Norway - Cloud
+Denmark - Cloud
+Finland - Cloud
+Poland - Cloud
+Ireland - Cloud
+Turkey | Türkiye | Turkiye - Cloud
+Ukraine - Cloud
+Czech Republic | Czechia - Cloud
+Hungary - Cloud
+Romania - Cloud
+Croatia - Cloud
+Serbia - Plane
+Slovakia - Plane
+Slovenia - Plane
+Iceland - Plane
+Lithuania - Plane
+Latvia - Plane
+Estonia - Plane
+Belarus - Plane
+Bosnia and Herzegovina | Bosnia - Plane
+Albania - Plane
+North Macedonia | Macedonia - Plane
+Montenegro - Rare
+Cyprus - Plane
+Luxembourg - Rare
+Malta - Rare
+Moldova - Rare
+Monaco - Rare
+Liechtenstein - Rare
+Andorra - Rare
+San Marino - Rare
+Kosovo - Rare
+Vatican City | Vatican | Holy See - One in Ballolion
+
+Question: Name a country in Asia
+
+Answers:
+China - Seagull
+India - Seagull
+Japan - Seagull
+South Korea | Republic of Korea - Cloud
+North Korea | DPRK - Cloud
+Thailand - Cloud
+Vietnam | Viet Nam - Cloud
+Indonesia - Cloud
+Philippines - Cloud
+Saudi Arabia - Cloud
+Iran - Cloud
+Iraq - Cloud
+Turkey | Türkiye | Turkiye - Cloud
+Israel - Cloud
+Pakistan - Cloud
+Malaysia - Cloud
+Russia - Cloud
+Singapore - Plane
+Bangladesh - Plane
+Afghanistan - Plane
+Nepal - Plane
+Mongolia - Plane
+Kazakhstan - Plane
+Uzbekistan - Plane
+Syria - Plane
+Jordan - Plane
+Lebanon - Plane
+United Arab Emirates | UAE | Emirates - Plane
+Qatar - Plane
+Kuwait - Plane
+Sri Lanka - Plane
+Cambodia - Plane
+Laos - Plane
+Myanmar | Burma - Plane
+Taiwan | Republic of China - Plane
+Georgia - Rare
+Armenia - Rare
+Azerbaijan - Rare
+Kyrgyzstan - Rare
+Tajikistan - Rare
+Turkmenistan - Rare
+Yemen - Rare
+Oman - Rare
+Bahrain - Rare
+Bhutan - Rare
+Brunei - Rare
+Palestine - Rare
+Cyprus - Rare
+Maldives - Rare
+Timor-Leste | East Timor - One in Ballolion
+
+Question: Name a country in Africa
+
+Answers:
+Egypt - Seagull
+South Africa - Seagull
+Nigeria - Seagull
+Morocco - Seagull
+Kenya - Seagull
+Ethiopia - Cloud
+Ghana - Cloud
+Algeria - Cloud
+Tunisia - Cloud
+Libya - Cloud
+Senegal - Cloud
+Tanzania - Cloud
+Uganda - Cloud
+Sudan - Cloud
+Cameroon - Cloud
+Ivory Coast | Côte d'Ivoire | Cote d'Ivoire - Cloud
+Zimbabwe - Cloud
+Mozambique - Cloud
+Angola - Cloud
+Madagascar - Cloud
+Democratic Republic of the Congo | DR Congo | DRC | Congo - Cloud
+Zambia - Plane
+Namibia - Plane
+Botswana - Plane
+Mali - Plane
+Niger - Plane
+Chad - Plane
+Somalia - Plane
+Rwanda - Plane
+Malawi - Plane
+Burkina Faso - Plane
+Guinea - Plane
+Benin - Plane
+Togo - Plane
+Sierra Leone - Plane
+Liberia - Plane
+Mauritania - Plane
+South Sudan - Plane
+Republic of the Congo | Congo-Brazzaville | Congo Brazzaville - Plane
+Gabon - Plane
+Mauritius - Plane
+Eritrea - Plane
+Djibouti - Plane
+Burundi - Rare
+Lesotho - Rare
+Eswatini | Swaziland - Rare
+Gambia | The Gambia - Rare
+Guinea-Bissau - Rare
+Equatorial Guinea - Rare
+Central African Republic - Rare
+Cape Verde | Cabo Verde - Rare
+Comoros - Rare
+Seychelles - Rare
+São Tomé and Príncipe | Sao Tome and Principe | Sao Tome - One in Ballolion
+
+Question: Name a country in South America
+
+Answers:
+Brazil - Seagull
+Argentina - Seagull
+Chile - Cloud
+Peru - Cloud
+Colombia - Cloud
+Venezuela - Plane
+Ecuador - Plane
+Bolivia - Plane
+Uruguay - Plane
+Paraguay - Rare
+Guyana - Rare
+Suriname - Rare
+French Guiana - One in Ballolion
+
+Question: Name a US state
+
+Answers:
+California - Seagull
+Texas - Seagull
+Florida - Seagull
+New York - Seagull
+Alaska - Cloud
+Hawaii - Cloud
+Nevada - Cloud
+Arizona - Cloud
+Illinois - Cloud
+Georgia - Cloud
+Washington - Cloud
+Ohio - Cloud
+Pennsylvania - Cloud
+Michigan - Cloud
+Colorado - Cloud
+Massachusetts - Cloud
+Oregon - Plane
+Virginia - Plane
+New Jersey - Plane
+Louisiana - Plane
+Utah - Plane
+Tennessee - Plane
+North Carolina - Plane
+South Carolina - Plane
+Indiana - Plane
+Missouri - Plane
+Wisconsin - Plane
+Minnesota - Plane
+Kentucky - Plane
+Alabama - Plane
+Maryland - Plane
+Oklahoma - Plane
+Connecticut - Rare
+Iowa - Rare
+Kansas - Rare
+Mississippi - Rare
+Arkansas - Rare
+New Mexico - Rare
+Montana - Rare
+Idaho - Rare
+Nebraska - Rare
+Maine - Rare
+New Hampshire - Rare
+Vermont - Rare
+Wyoming - Rare
+West Virginia - Rare
+Delaware - One in Ballolion
+Rhode Island - Rare
+North Dakota - Rare
+South Dakota - Rare
+
+Question: Name a city in Bulgaria
+
+Answers:
+Sofia - Seagull
+Plovdiv - Seagull
+Varna - Seagull
+Burgas | Bourgas - Seagull
+Ruse | Rousse - Cloud
+Stara Zagora - Cloud
+Pleven - Cloud
+Veliko Tarnovo | Tarnovo | Veliko Turnovo - Cloud
+Sliven - Cloud
+Blagoevgrad - Cloud
+Dobrich - Cloud
+Shumen | Shoumen - Cloud
+Pernik - Cloud
+Haskovo - Plane
+Yambol - Plane
+Pazardzhik | Pazardjik - Plane
+Gabrovo - Plane
+Vratsa | Vratza - Plane
+Montana - Plane
+Vidin - Plane
+Kardzhali | Kurdzhali | Kardjali - Plane
+Kyustendil | Kjustendil - Plane
+Targovishte | Turgovishte - Plane
+Silistra - Plane
+Lovech - Plane
+Razgrad - Plane
+Smolyan - Plane
+Sandanski - Plane
+Bansko - Plane
+Sozopol - Plane
+Nessebar | Nesebar - Plane
+Razlog - Rare
+Samokov - Rare
+Dupnitsa | Dupnitza - Rare
+Asenovgrad - Rare
+Svishtov - Rare
+Troyan - Rare
+Kazanlak - Rare
+Sevlievo - Rare
+Lom - Rare
+Botevgrad - Rare
+Balchik - Rare
+Kavarna - Rare
+Tryavna - Rare
+Koprivshtitsa - Rare
+Pomorie - Rare
+Melnik - One in Ballolion
+Batak - Rare
+Pirdop - Rare
+Zlatograd - Rare
+
+Question: Name a river in Europe
+
+Answers:
+Danube - Seagull
+Rhine - Seagull
+Thames - Seagull
+Seine - Seagull
+Volga - Cloud
+Loire - Cloud
+Elbe - Cloud
+Po - Cloud
+Tiber - Cloud
+Rhone | Rhône - Cloud
+Ebro - Cloud
+Vistula - Plane
+Oder - Plane
+Dnieper | Dnipro - Plane
+Don - Plane
+Tagus - Plane
+Douro - Plane
+Garonne - Plane
+Meuse - Plane
+Main - Plane
+Neckar - Plane
+Moselle - Plane
+Tisza - Plane
+Sava - Plane
+Maritsa | Evros | Meric - Plane
+Struma | Strymon - Rare
+Iskar - Rare
+Vardar - Rare
+Arno - Rare
+Guadalquivir - Rare
+Shannon - Rare
+Neva - Rare
+Severn - Rare
+Inn - Rare
+Drava - Rare
+Morava - Rare
+Dniester | Dniestr - Rare
+Ural - Rare
+Mesta | Nestos - One in Ballolion
+Arda - Rare
+Yantra - Rare
+Tundzha - Rare
+
+Question: Name a continent
+
+Answers:
+Asia - Seagull
+Europe - Seagull
+Africa - Seagull
+North America - Cloud
+South America - Cloud
+Antarctica - Plane
+Oceania | Australia | Australasia - Plane
+Zealandia - One in Ballolion
+
+Question: Name a mountain range in Bulgaria
+
+Answers:
+Rila - Seagull
+Pirin - Seagull
+Vitosha - Seagull
+Balkan Mountains | Stara Planina | Balkan | Balkans - Seagull
+Rhodopes | Rhodope | Rhodope Mountains | Rodopi - Cloud
+Strandzha | Strandja - Cloud
+Sredna Gora - Cloud
+Osogovo - Plane
+Belasitsa - Plane
+Slavyanka | Alibotush - Plane
+Lyulin - Plane
+Vlahina - Plane
+Sakar - Rare
+Lozen - Rare
+Verila - Rare
+Konyavska - Rare
+Ograzhden - One in Ballolion
+Maleshevska | Maleshevo - Rare
+Golo Bardo - Rare

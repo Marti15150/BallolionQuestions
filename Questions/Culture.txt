@@ -1,0 +1,367 @@
+Question: Name a Greek god or goddess
+
+Answers:
+Zeus - Seagull
+Poseidon - Seagull
+Hades - Seagull
+Athena - Seagull
+Apollo - Seagull
+Aphrodite - Seagull
+Ares - Cloud
+Hermes - Cloud
+Artemis - Cloud
+Hera - Cloud
+Demeter - Cloud
+Hephaestus - Cloud
+Dionysus - Cloud
+Hestia - Cloud
+Persephone - Plane
+Eros - Plane
+Pan - Plane
+Nike - Plane
+Hypnos - Plane
+Helios - Plane
+Selene - Plane
+Hecate - Plane
+Nemesis - Plane
+Gaia | Gaea - Plane
+Cronus | Kronos - Plane
+Rhea - Plane
+Uranus - Plane
+Thanatos - Rare
+Morpheus - Rare
+Eris - Rare
+Iris - Rare
+Tyche - Rare
+Nyx - Rare
+Eos - Rare
+Hebe - Rare
+Asclepius - Rare
+Atlas - Rare
+Prometheus - Rare
+Hyperion - Rare
+Oceanus - Rare
+Aether - One in Ballolion
+Erebus - Rare
+Hemera - Rare
+Ananke - Rare
+Pontus - Rare
+Thalassa - Rare
+
+Question: Name a musical instrument
+
+Answers:
+Guitar - Seagull
+Piano - Seagull
+Drums | Drum - Seagull
+Violin - Seagull
+Flute - Cloud
+Trumpet - Cloud
+Saxophone | Sax - Cloud
+Cello - Cloud
+Clarinet - Cloud
+Harp - Cloud
+Trombone - Cloud
+Bass Guitar | Bass - Cloud
+Accordion - Cloud
+Harmonica - Cloud
+Ukulele - Cloud
+Oboe - Plane
+Bassoon - Plane
+Tuba - Plane
+French Horn | Horn - Plane
+Double Bass | Upright Bass - Plane
+Viola - Plane
+Banjo - Plane
+Xylophone - Plane
+Tambourine - Plane
+Organ - Plane
+Keyboard | Synthesizer - Plane
+Bagpipes | Bagpipe - Plane
+Triangle - Plane
+Cymbals - Plane
+Mandolin - Plane
+Piccolo - Plane
+Recorder - Plane
+Harpsichord - Plane
+Gaida - Rare
+Kaval - Rare
+Tambura - Rare
+Sitar - Rare
+Didgeridoo - Rare
+Marimba - Rare
+Glockenspiel - Rare
+Vibraphone - Rare
+Theremin - Rare
+Oud - Rare
+Bouzouki - Rare
+Balalaika - Rare
+Zither - Rare
+Lute - Rare
+Cornet - Rare
+Euphonium - Rare
+Flugelhorn - Rare
+English Horn | Cor Anglais - Rare
+Contrabassoon - Rare
+Bongos | Bongo - Rare
+Congas | Conga - Rare
+Castanets - Rare
+Maracas - Rare
+Kazoo - Rare
+Timpani | Kettledrum - Rare
+Celesta - Rare
+Dulcimer - Rare
+Panpipes | Pan Flute - Rare
+Ocarina - Rare
+Hurdy-gurdy | Hurdy Gurdy - One in Ballolion
+Serpent - Rare
+Sousaphone - Rare
+Sarod - Rare
+Erhu - Rare
+Shamisen - Rare
+Koto - Rare
+Kalimba | Thumb Piano - Rare
+Hang Drum - Rare
+Nyckelharpa - Rare
+Ondes Martenot - Rare
+Glass Armonica - Rare
+Sackbut - Rare
+
+Question: Name a sport played with a ball
+
+Answers:
+Football | Soccer - Seagull
+Basketball - Seagull
+Tennis - Seagull
+Baseball - Seagull
+Golf - Cloud
+Volleyball - Cloud
+Rugby - Cloud
+Cricket - Cloud
+Handball - Cloud
+Table Tennis | Ping Pong - Cloud
+American Football - Cloud
+Water Polo - Plane
+Field Hockey - Plane
+Bowling - Plane
+Billiards | Pool | Snooker - Plane
+Softball - Plane
+Squash - Plane
+Lacrosse - Plane
+Polo - Plane
+Netball - Plane
+Beach Volleyball - Plane
+Futsal - Plane
+Pickleball - Rare
+Racquetball - Rare
+Croquet - Rare
+Bocce | Boules | Petanque - Rare
+Dodgeball - Rare
+Hurling - Rare
+Gaelic Football - Rare
+Korfball - Rare
+Sepak Takraw - Rare
+Jai Alai | Pelota - One in Ballolion
+Bossaball - Rare
+Kin-Ball - Rare
+Camogie - Rare
+Fistball - Rare
+Pesapallo - Rare
+Tchoukball - Rare
+
+Question: Name a programming language
+
+Answers:
+Python - Seagull
+JavaScript - Seagull
+Java - Seagull
+C++ - Seagull
+C - Cloud
+C# - Cloud
+PHP - Cloud
+Ruby - Cloud
+Swift - Cloud
+Kotlin - Cloud
+Go - Cloud
+TypeScript - Cloud
+SQL - Cloud
+Rust - Cloud
+R - Plane
+MATLAB - Plane
+Perl - Plane
+Lua - Plane
+Scala - Plane
+Dart - Plane
+Haskell - Plane
+Assembly - Plane
+Visual Basic | VB - Plane
+Objective-C - Plane
+Bash | Shell - Plane
+Fortran - Plane
+COBOL - Plane
+Pascal - Plane
+Lisp - Plane
+Julia - Plane
+Groovy - Plane
+Luau - Rare
+Elixir - Rare
+Erlang - Rare
+Clojure - Rare
+F# - Rare
+OCaml - Rare
+Scheme - Rare
+Prolog - Rare
+Delphi - Rare
+Ada - Rare
+Smalltalk - Rare
+Zig - Rare
+Nim - Rare
+Crystal - Rare
+Racket - Rare
+D - Rare
+Solidity - Rare
+GDScript - Rare
+APL - One in Ballolion
+Forth - Rare
+Befunge - Rare
+LOLCODE - Rare
+Malbolge - Rare
+Whitespace - Rare
+Haxe - Rare
+
+Question: Name a car brand
+
+Answers:
+Toyota - Seagull
+Ford - Seagull
+BMW - Seagull
+Mercedes-Benz | Mercedes | Benz - Seagull
+Volkswagen | VW - Seagull
+Audi - Seagull
+Honda - Seagull
+Tesla - Seagull
+Chevrolet | Chevy - Seagull
+Nissan - Cloud
+Hyundai - Cloud
+Kia - Cloud
+Mazda - Cloud
+Volvo - Cloud
+Porsche - Cloud
+Ferrari - Cloud
+Lamborghini - Cloud
+Renault - Cloud
+Peugeot - Cloud
+Fiat - Cloud
+Jeep - Cloud
+Subaru - Cloud
+Opel - Cloud
+Skoda | Škoda - Cloud
+Citroen | Citroën - Plane
+Seat - Plane
+Dacia - Plane
+Mini - Plane
+Land Rover - Plane
+Jaguar - Plane
+Mitsubishi - Plane
+Suzuki - Plane
+Lexus - Plane
+Alfa Romeo - Plane
+Maserati - Plane
+Bentley - Plane
+Rolls-Royce - Plane
+Aston Martin - Plane
+Dodge - Plane
+Cadillac - Plane
+Chrysler - Plane
+Lada - Plane
+McLaren - Plane
+Bugatti - Plane
+GMC - Plane
+Buick - Plane
+Lincoln - Plane
+Infiniti - Plane
+Genesis - Rare
+Acura - Rare
+Ram - Rare
+Pagani - Rare
+Koenigsegg - Rare
+Lotus - Rare
+Polestar - Rare
+Rivian - Rare
+Lucid - Rare
+BYD - Rare
+Geely - Rare
+Chery - Rare
+Great Wall - Rare
+MG - Rare
+Smart - Rare
+Saab - Rare
+Daewoo - Rare
+Isuzu - Rare
+Daihatsu - Rare
+Tatra - One in Ballolion
+Trabant - Rare
+Moskvich | Moskvitch - Rare
+Zastava - Rare
+Spyker - Rare
+Morgan - Rare
+Holden - Rare
+Datsun - Rare
+Pontiac - Rare
+Oldsmobile - Rare
+Plymouth - Rare
+Hummer - Rare
+Maybach - Rare
+Saturn - Rare
+Lancia - Rare
+DS - Rare
+
+Question: Name a month of the year that has 31 days
+
+Answers:
+July - Seagull
+December - Seagull
+January - Seagull
+August - Cloud
+March - Cloud
+May - Cloud
+October - One in Ballolion
+
+Question: Name a play written by William Shakespeare
+
+Answers:
+Hamlet - Seagull
+Romeo and Juliet - Seagull
+Macbeth - Seagull
+Othello - Seagull
+King Lear - Seagull
+A Midsummer Night's Dream - Cloud
+The Tempest - Cloud
+Julius Caesar - Cloud
+Twelfth Night - Cloud
+Much Ado About Nothing - Cloud
+The Merchant of Venice - Cloud
+As You Like It - Cloud
+Richard III - Plane
+Henry V - Plane
+The Taming of the Shrew - Plane
+Antony and Cleopatra - Plane
+Coriolanus - Plane
+Titus Andronicus - Plane
+The Winter's Tale - Plane
+Measure for Measure - Plane
+Richard II - Plane
+Henry IV - Plane
+The Comedy of Errors - Plane
+Love's Labour's Lost - Plane
+All's Well That Ends Well - Plane
+Cymbeline - Plane
+The Merry Wives of Windsor - Plane
+Troilus and Cressida - Rare
+Henry VI - Rare
+Henry VIII - Rare
+King John - Rare
+The Two Gentlemen of Verona - Rare
+Timon of Athens - One in Ballolion
+Pericles - Rare
+The Two Noble Kinsmen - Rare

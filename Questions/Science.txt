@@ -1,0 +1,220 @@
+Question: Name a chemical element
+
+Answers:
+Hydrogen - Seagull
+Oxygen - Seagull
+Carbon - Seagull
+Gold - Seagull
+Iron - Seagull
+Helium - Seagull
+Nitrogen - Cloud
+Silver - Cloud
+Copper - Cloud
+Sodium - Cloud
+Calcium - Cloud
+Uranium - Cloud
+Lead - Cloud
+Zinc - Cloud
+Mercury - Cloud
+Neon - Cloud
+Chlorine - Cloud
+Aluminum | Aluminium - Cloud
+Silicon - Cloud
+Tin - Cloud
+Platinum - Cloud
+Sulfur | Sulphur - Cloud
+Lithium - Plane
+Magnesium - Plane
+Potassium - Plane
+Titanium - Plane
+Nickel - Plane
+Argon - Plane
+Phosphorus - Plane
+Fluorine - Plane
+Iodine - Plane
+Bromine - Plane
+Boron - Plane
+Arsenic - Plane
+Cobalt - Plane
+Chromium - Plane
+Manganese - Plane
+Plutonium - Plane
+Radium - Plane
+Radon - Plane
+Xenon - Plane
+Krypton - Plane
+Tungsten | Wolfram - Plane
+Cadmium - Plane
+Beryllium - Plane
+Barium - Plane
+Antimony - Plane
+Bismuth - Plane
+Cesium | Caesium - Plane
+Scandium - Rare
+Vanadium - Rare
+Gallium - Rare
+Germanium - Rare
+Selenium - Rare
+Rubidium - Rare
+Strontium - Rare
+Yttrium - Rare
+Zirconium - Rare
+Niobium - Rare
+Molybdenum - Rare
+Technetium - Rare
+Ruthenium - Rare
+Rhodium - Rare
+Palladium - Rare
+Indium - Rare
+Tellurium - Rare
+Lanthanum - Rare
+Cerium - Rare
+Neodymium - Rare
+Samarium - Rare
+Europium - Rare
+Gadolinium - Rare
+Hafnium - Rare
+Tantalum - Rare
+Rhenium - Rare
+Osmium - Rare
+Iridium - Rare
+Thallium - Rare
+Polonium - Rare
+Astatine - Rare
+Francium - Rare
+Actinium - Rare
+Thorium - Rare
+Protactinium - Rare
+Neptunium - Rare
+Americium - Rare
+Curium - Rare
+Berkelium - Rare
+Californium - Rare
+Praseodymium - Rare
+Promethium - Rare
+Terbium - Rare
+Dysprosium - Rare
+Holmium - Rare
+Erbium - Rare
+Thulium - Rare
+Ytterbium - Rare
+Lutetium - Rare
+Einsteinium - Rare
+Fermium - Rare
+Mendelevium - Rare
+Nobelium - Rare
+Lawrencium - Rare
+Rutherfordium - Rare
+Dubnium - Rare
+Seaborgium - Rare
+Bohrium - Rare
+Hassium - Rare
+Meitnerium - Rare
+Darmstadtium - Rare
+Roentgenium - Rare
+Copernicium - Rare
+Nihonium - Rare
+Flerovium - Rare
+Moscovium - Rare
+Livermorium - Rare
+Tennessine - Rare
+Oganesson - One in Ballolion
+
+Question: Name a planet or dwarf planet in our solar system
+
+Answers:
+Earth - Seagull
+Mars - Seagull
+Jupiter - Seagull
+Saturn - Cloud
+Venus - Cloud
+Mercury - Cloud
+Neptune - Plane
+Uranus - Plane
+Pluto - Plane
+Ceres - Rare
+Eris - Rare
+Haumea - One in Ballolion
+Makemake - Rare
+
+Question: Name a color of the rainbow
+
+Answers:
+Red - Seagull
+Blue - Seagull
+Green - Seagull
+Yellow - Seagull
+Orange - Cloud
+Violet | Purple - Cloud
+Indigo - One in Ballolion
+
+Question: Name a metal or metal alloy
+
+Answers:
+Iron - Seagull
+Gold - Seagull
+Silver - Seagull
+Copper - Seagull
+Aluminum | Aluminium - Cloud
+Lead - Cloud
+Zinc - Cloud
+Tin - Cloud
+Steel - Cloud
+Bronze - Cloud
+Mercury - Cloud
+Titanium - Plane
+Platinum - Plane
+Nickel - Plane
+Brass - Plane
+Lithium - Plane
+Sodium - Plane
+Magnesium - Plane
+Tungsten - Plane
+Cobalt - Plane
+Uranium - Plane
+Potassium - Plane
+Calcium - Plane
+Chromium - Plane
+Palladium - Rare
+Rhodium - Rare
+Iridium - Rare
+Osmium - Rare
+Cadmium - Rare
+Bismuth - Rare
+Zirconium - Rare
+Vanadium - Rare
+Manganese - Rare
+Gallium - Rare
+Pewter - Rare
+Cesium | Caesium - Rare
+Rhenium - One in Ballolion
+Hafnium - Rare
+Tantalum - Rare
+Ruthenium - Rare
+Francium - Rare
+Rubidium - Rare
+
+Question: Name an organ in the human body
+
+Answers:
+Heart - Seagull
+Brain - Seagull
+Lungs | Lung - Seagull
+Liver - Cloud
+Kidneys | Kidney - Cloud
+Stomach - Cloud
+Skin - Cloud
+Intestines | Intestine | Bowel - Plane
+Pancreas - Plane
+Bladder - Plane
+Spleen - Plane
+Gallbladder | Gall Bladder - Plane
+Esophagus | Oesophagus - Rare
+Appendix - Rare
+Thyroid - Rare
+Uterus - Rare
+Larynx | Voice Box - Rare
+Trachea - Rare
+Thymus - One in Ballolion
+Adrenal Gland - Rare
+Pituitary Gland - Rare
