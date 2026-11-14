@@ -288,6 +288,8 @@ Arowana - Rare
 Question: Name a type of bird
 
 Answers:
+Seagull - Seagull
+Chicken - Seagull
 Sparrow - Seagull
 Pigeon - Seagull
 Crow - Seagull
