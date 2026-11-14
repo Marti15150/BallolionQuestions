@@ -207,3 +207,531 @@ Cashel Blue - Rare
 Mimolette - Rare
 Appenzeller - Rare
 Port Salut - Rare
+
+Question: Name a type of bread
+
+Answers:
+White Bread - Seagull
+Whole Wheat Bread - Seagull
+Baguette - Seagull
+Toast - Seagull
+Sourdough Bread - Cloud
+Rye Bread - Cloud
+Ciabatta - Cloud
+Pita Bread - Cloud
+Focaccia - Plane
+Brioche - Plane
+Naan - Plane
+Pumpernickel - Plane
+Challah - Plane
+Cornbread - Rare
+Pretzel Bread - Rare
+Lavash - Rare
+Injera - Rare
+Mantou - Rare
+Damper - Rare
+Tigelle - One in Ballolion
+
+Question: Name a type of soup
+
+Answers:
+Chicken Soup - Seagull
+Tomato Soup - Seagull
+Mushroom Soup - Seagull
+Vegetable Soup - Seagull
+Pumpkin Soup - Cloud
+Lentil Soup - Cloud
+Minestrone - Cloud
+Onion Soup - Cloud
+Ramen - Plane
+Miso Soup - Plane
+Pho - Plane
+Gazpacho - Plane
+Borscht - Plane
+Goulash Soup - Rare
+Tom Yum - Rare
+Laksa - Rare
+Avgolemono - Rare
+Harira - Rare
+Caldo Verde - Rare
+Shchi - One in Ballolion
+
+Question: Name a type of dessert
+
+Answers:
+Chocolate Cake - Seagull
+Ice Cream - Seagull
+Brownie - Seagull
+Cheesecake - Seagull
+Donut | Doughnut - Cloud
+Apple Pie - Cloud
+Tiramisu - Cloud
+Pudding - Cloud
+Cupcake - Plane
+Macaron - Plane
+Baklava - Plane
+Crème Brûlée - Plane
+Churros - Plane
+Pavlova - Rare
+Cannoli - Rare
+Profiterole - Rare
+Knafeh - Rare
+Kulfi - Rare
+Mochi - Rare
+Kaiserschmarrn - One in Ballolion
+
+Question: Name a type of pizza
+
+Answers:
+Margherita - Seagull
+Pepperoni - Seagull
+Hawaiian - Seagull
+Cheese Pizza - Seagull
+Meat Lovers - Cloud
+Vegetarian Pizza - Cloud
+BBQ Chicken Pizza - Cloud
+Four Cheese Pizza - Cloud
+Neapolitan Pizza - Plane
+Calzone - Plane
+Capricciosa - Plane
+Diavola - Plane
+Quattro Stagioni - Plane
+Prosciutto e Funghi - Rare
+Pizza Bianca - Rare
+Frutti di Mare - Rare
+Sfincione - Rare
+Detroit Style Pizza - Rare
+Pinsa Romana - Rare
+Pizza al Padellino - One in Ballolion
+
+Question: Name a type of meat
+
+Answers:
+Chicken - Seagull
+Beef - Seagull
+Pork - Seagull
+Turkey - Seagull
+Lamb - Cloud
+Duck - Cloud
+Veal - Cloud
+Goat - Cloud
+Rabbit - Plane
+Venison - Plane
+Bison - Plane
+Quail - Plane
+Pheasant - Rare
+Wild Boar - Rare
+Ostrich - Rare
+Guinea Fowl - Rare
+Elk - Rare
+Caribou - Rare
+Partridge - Rare
+Capybara - One in Ballolion
+
+Question: Name a type of seafood
+
+Answers:
+Salmon - Seagull
+Tuna - Seagull
+Shrimp | Prawn - Seagull
+Crab - Seagull
+Lobster - Cloud
+Cod - Cloud
+Sardine - Cloud
+Mackerel - Cloud
+Octopus - Plane
+Squid - Plane
+Mussel - Plane
+Oyster - Plane
+Clam - Plane
+Scallop - Rare
+Swordfish - Rare
+Halibut - Rare
+Monkfish - Rare
+Sea Urchin - Rare
+Geoduck - Rare
+Opah - One in Ballolion
+
+Question: Name a type of rice dish
+
+Answers:
+Fried Rice - Seagull
+Rice Pudding - Seagull
+Risotto - Seagull
+Paella - Seagull
+Sushi - Cloud
+Biryani - Cloud
+Jambalaya - Cloud
+Rice Pilaf - Cloud
+Bibimbap - Plane
+Arroz con Pollo - Plane
+Dolma - Plane
+Onigiri - Plane
+Congee - Rare
+Kedgeree - Rare
+Nasi Goreng - Rare
+Kabsa - Rare
+Tahdig - Rare
+Mujadara - Rare
+Hainanese Chicken Rice - Rare
+Zongzi - One in Ballolion
+
+Question: Name a type of sandwich
+
+Answers:
+Ham Sandwich - Seagull
+Cheese Sandwich - Seagull
+BLT - Seagull
+Club Sandwich - Seagull
+Tuna Sandwich - Cloud
+Chicken Sandwich - Cloud
+Grilled Cheese - Cloud
+Peanut Butter and Jelly - Cloud
+Philly Cheesesteak - Plane
+Reuben Sandwich - Plane
+Panini - Plane
+Banh Mi - Plane
+Croque Monsieur - Plane
+Muffuletta - Rare
+Katsu Sando - Rare
+Lobster Roll - Rare
+Smørrebrød - Rare
+Cuban Sandwich - Rare
+Bocadillo - Rare
+Tramezzino - One in Ballolion
+
+Question: Name a type of sauce
+
+Answers:
+Ketchup - Seagull
+Mayonnaise - Seagull
+Mustard - Seagull
+BBQ Sauce - Seagull
+Soy Sauce - Cloud
+Hot Sauce - Cloud
+Ranch - Cloud
+Garlic Sauce - Cloud
+Pesto - Plane
+Hollandaise - Plane
+Tartar Sauce - Plane
+Teriyaki Sauce - Plane
+Sweet Chili Sauce - Rare
+Worcestershire Sauce - Rare
+Chimichurri - Rare
+Harissa - Rare
+Gochujang - Rare
+Tzatziki - Rare
+Ponzu - Rare
+Café de Paris Sauce - One in Ballolion
+
+Question: Name a type of breakfast food
+
+Answers:
+Pancakes - Seagull
+Waffles - Seagull
+Cereal - Seagull
+Scrambled Eggs - Seagull
+Omelette - Cloud
+French Toast - Cloud
+Porridge - Cloud
+Bacon - Cloud
+Hash Browns - Plane
+Bagel - Plane
+Croissant - Plane
+Granola - Plane
+Shakshuka - Rare
+Eggs Benedict - Rare
+Chilaquiles - Rare
+Menemen - Rare
+Arepa - Rare
+Crumpets - Rare
+Dutch Baby Pancake - Rare
+Æbleskiver - One in Ballolion
+
+Question: Name a type of candy
+
+Answers:
+Chocolate Bar - Seagull
+Gummy Bears - Seagull
+Lollipop - Seagull
+Jelly Beans - Seagull
+Marshmallow - Cloud
+Caramel - Cloud
+Toffee - Cloud
+Fudge - Cloud
+Candy Cane - Plane
+Liquorice - Plane
+Cotton Candy - Plane
+Jawbreaker - Plane
+Nougat - Rare
+Praline - Rare
+Turkish Delight - Rare
+Bonbon - Rare
+Dragée - Rare
+Divinity - Rare
+Pâte de Fruit - Rare
+Salmiakki - One in Ballolion
+
+Question: Name a type of ice cream flavor
+
+Answers:
+Vanilla - Seagull
+Chocolate - Seagull
+Strawberry - Seagull
+Mint Chocolate Chip - Seagull
+Cookies and Cream - Cloud
+Cookie Dough - Cloud
+Pistachio - Cloud
+Caramel - Cloud
+Rocky Road - Plane
+Butter Pecan - Plane
+Mango - Plane
+Coffee - Plane
+Black Sesame - Rare
+Ube - Rare
+Kulfi - Rare
+Rum Raisin - Rare
+Matcha - Rare
+Balsamic Strawberry - Rare
+Mastic - Rare
+Burnt Hay - One in Ballolion
+
+Question: Name a type of cooking method
+
+Answers:
+Boiling - Seagull
+Frying - Seagull
+Baking - Seagull
+Grilling - Seagull
+Roasting - Cloud
+Steaming - Cloud
+Sautéing - Cloud
+Broiling - Cloud
+Braising - Plane
+Poaching - Plane
+Smoking - Plane
+Slow Cooking - Plane
+Sous Vide - Rare
+Confit - Rare
+Flambé - Rare
+Fermentation - Rare
+Curing - Rare
+En Papillote - Rare
+Blackening - Rare
+Spherification - One in Ballolion
+
+Question: Name a type of spice
+
+Answers:
+Black Pepper - Seagull
+Cinnamon - Seagull
+Paprika - Seagull
+Chili Powder - Seagull
+Cumin - Cloud
+Turmeric - Cloud
+Ginger - Cloud
+Nutmeg - Cloud
+Cardamom - Plane
+Cloves - Plane
+Coriander - Plane
+Saffron - Plane
+Sumac - Rare
+Fenugreek - Rare
+Star Anise - Rare
+Mahlab - Rare
+Grains of Paradise - Rare
+Long Pepper - Rare
+Cubeb Pepper - Rare
+Voatsiperifery Pepper - One in Ballolion
+
+Question: Name a type of cooking oil
+
+Answers:
+Olive Oil - Seagull
+Sunflower Oil - Seagull
+Vegetable Oil - Seagull
+Canola Oil - Seagull
+Coconut Oil - Cloud
+Sesame Oil - Cloud
+Peanut Oil - Cloud
+Corn Oil - Cloud
+Avocado Oil - Plane
+Walnut Oil - Plane
+Grapeseed Oil - Plane
+Flaxseed Oil - Plane
+Hazelnut Oil - Rare
+Pumpkin Seed Oil - Rare
+Argan Oil - Rare
+Camelina Oil - Rare
+Perilla Oil - Rare
+Hemp Seed Oil - Rare
+Poppy Seed Oil - Rare
+Ben Oil - One in Ballolion
+
+Question: Name a type of flour
+
+Answers:
+Wheat Flour - Seagull
+All-Purpose Flour - Seagull
+Bread Flour - Seagull
+Self-Rising Flour - Seagull
+Whole Wheat Flour - Cloud
+Corn Flour - Cloud
+Rice Flour - Cloud
+Almond Flour - Cloud
+Oat Flour - Plane
+Coconut Flour - Plane
+Rye Flour - Plane
+Buckwheat Flour - Plane
+Chickpea Flour - Rare
+Cassava Flour - Rare
+Teff Flour - Rare
+Sorghum Flour - Rare
+Chestnut Flour - Rare
+Tiger Nut Flour - Rare
+Mesquite Flour - Rare
+Acorn Flour - One in Ballolion
+
+Question: Name a type of tea
+
+Answers:
+Black Tea - Seagull
+Green Tea - Seagull
+Chamomile Tea - Seagull
+Peppermint Tea - Seagull
+Earl Grey - Cloud
+English Breakfast - Cloud
+Jasmine Tea - Cloud
+Rooibos - Cloud
+Oolong - Plane
+White Tea - Plane
+Matcha - Plane
+Hibiscus Tea - Plane
+Pu-erh - Rare
+Genmaicha - Rare
+Kukicha - Rare
+Lapsang Souchong - Rare
+Gyokuro - Rare
+Tieguanyin - Rare
+Da Hong Pao - Rare
+Yellow Tea - One in Ballolion
+
+Question: Name a type of mushroom
+
+Answers:
+Button Mushroom - Seagull
+Portobello - Seagull
+Shiitake - Seagull
+Oyster Mushroom - Seagull
+Cremini - Cloud
+Enoki - Cloud
+King Oyster - Cloud
+Chanterelle - Cloud
+Porcini - Plane
+Morel - Plane
+Maitake - Plane
+Shimeji - Plane
+Lion's Mane - Rare
+Chicken of the Woods - Rare
+Black Trumpet - Rare
+Hedgehog Mushroom - Rare
+Wood Ear - Rare
+Cauliflower Mushroom - Rare
+Candy Cap - Rare
+Devil's Cigar - One in Ballolion
+
+Question: Name a type of bean
+
+Answers:
+Black Bean - Seagull
+Kidney Bean - Seagull
+Pinto Bean - Seagull
+Chickpea - Seagull
+Lentil - Cloud
+Lima Bean - Cloud
+Navy Bean - Cloud
+Cannellini Bean - Cloud
+Adzuki Bean - Plane
+Mung Bean - Plane
+Fava Bean - Plane
+Black-Eyed Pea - Plane
+Borlotti Bean - Rare
+Flageolet Bean - Rare
+Moth Bean - Rare
+Winged Bean - Rare
+Hyacinth Bean - Rare
+Marama Bean - Rare
+Tepary Bean - Rare
+Kersting's Groundnut - One in Ballolion
+
+Question: Name a type of vinegar
+
+Answers:
+White Vinegar - Seagull
+Apple Cider Vinegar - Seagull
+Balsamic Vinegar - Seagull
+Rice Vinegar - Seagull
+Red Wine Vinegar - Cloud
+White Wine Vinegar - Cloud
+Malt Vinegar - Cloud
+Distilled Vinegar - Cloud
+Sherry Vinegar - Plane
+Champagne Vinegar - Plane
+Coconut Vinegar - Plane
+Date Vinegar - Plane
+Black Vinegar - Rare
+Ume Plum Vinegar - Rare
+Cane Vinegar - Rare
+Persimmon Vinegar - Rare
+Raisin Vinegar - Rare
+Beer Vinegar - Rare
+Honey Vinegar - Rare
+Verjuice - One in Ballolion
+
+Question: Name a type of sausage
+
+Answers:
+Hot Dog - Seagull
+Bratwurst - Seagull
+Chorizo - Seagull
+Italian Sausage - Seagull
+Salami - Cloud
+Pepperoni - Cloud
+Kielbasa - Cloud
+Frankfurter - Cloud
+Andouille - Plane
+Boudin - Plane
+Merguez - Plane
+Bangers - Plane
+Lap Cheong - Rare
+Sucuk - Rare
+Lukanka - Rare
+Longaniza - Rare
+Cotechino - Rare
+Morcilla - Rare
+Saveloy - Rare
+Strolghino - One in Ballolion
+
+Question: Name a type of pancake
+
+Answers:
+American Pancake - Seagull
+Crepe - Seagull
+Blini - Seagull
+Scotch Pancake - Seagull
+Dutch Pancake - Cloud
+Buttermilk Pancake - Cloud
+Potato Pancake - Cloud
+Banana Pancake - Cloud
+Dosa - Plane
+Okonomiyaki - Plane
+Dorayaki - Plane
+Pikelet - Plane
+Kaiserschmarrn - Rare
+Poffertjes - Rare
+Bánh Xèo - Rare
+Msemen - Rare
+Serabi - Rare
+Apam Balik - Rare
+Cong You Bing - Rare
+Martabak Manis - One in Ballolion
