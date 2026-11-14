@@ -649,3 +649,162 @@ Dermatology - Rare
 Pediatrics - Rare
 Geriatrics - Rare
 Oncology - One in Ballolion
+
+Question: Name a type of dinosaur
+
+Answers:
+Tyrannosaurus Rex | T-Rex - Seagull
+Triceratops - Seagull
+Velociraptor - Seagull
+Stegosaurus - Seagull
+Brachiosaurus - Cloud
+Spinosaurus - Cloud
+Ankylosaurus - Cloud
+Diplodocus - Cloud
+Allosaurus - Cloud
+Parasaurolophus - Plane
+Carnotaurus - Plane
+Iguanodon - Plane
+Pachycephalosaurus - Plane
+Deinonychus - Plane
+Therizinosaurus - Rare
+Dilophosaurus - Rare
+Argentinosaurus - Rare
+Giganotosaurus - Rare
+Microraptor - Rare
+Amargasaurus - One in Ballolion
+
+Question: Name a video game
+
+Answers:
+Minecraft - Seagull
+Fortnite - Seagull
+Roblox - Seagull
+Grand Theft Auto V - Seagull
+Rocket League - Cloud
+Terraria - Cloud
+Among Us - Cloud
+Counter-Strike 2 - Cloud
+Valorant - Cloud
+Overwatch 2 - Plane
+Stardew Valley - Plane
+Hollow Knight - Plane
+Celeste - Plane
+Portal 2 - Plane
+Undertale - Rare
+Subnautica - Rare
+No Man's Sky - Rare
+Hades - Rare
+Factorio - Rare
+Outer Wilds - One in Ballolion
+
+Question: Name an ocean
+
+Answers:
+Pacific Ocean - Seagull
+Atlantic Ocean - Seagull
+Indian Ocean - Seagull
+Arctic Ocean - Cloud
+Southern Ocean - One in Ballolion
+
+Question: Name a famous scientist
+
+Answers:
+Albert Einstein - Seagull
+Isaac Newton - Seagull
+Galileo Galilei - Seagull
+Nikola Tesla - Seagull
+Marie Curie - Cloud
+Charles Darwin - Cloud
+Stephen Hawking - Cloud
+Thomas Edison - Cloud
+Alan Turing - Plane
+Niels Bohr - Plane
+Johannes Kepler - Plane
+Michael Faraday - Plane
+Dmitri Mendeleev - Rare
+Ada Lovelace - Rare
+Rosalind Franklin - Rare
+Erwin Schrödinger - Rare
+Emmy Noether - Rare
+Katherine Johnson - Rare
+Lise Meitner - Rare
+Chien-Shiung Wu - One in Ballolion
+
+Question: Name a type of gemstone
+
+Answers:
+Diamond - Seagull
+Ruby - Seagull
+Emerald - Seagull
+Sapphire - Seagull
+Amethyst - Cloud
+Opal - Cloud
+Topaz - Cloud
+Garnet - Cloud
+Aquamarine - Plane
+Peridot - Plane
+Turquoise - Plane
+Onyx - Plane
+Tanzanite - Rare
+Alexandrite - Rare
+Moonstone - Rare
+Labradorite - Rare
+Morganite - Rare
+Tourmaline - Rare
+Painite - Rare
+Grandidierite - One in Ballolion
+
+Question: Name a famous mountain
+
+Answers:
+Mount Everest - Seagull
+K2 - Seagull
+Kilimanjaro - Seagull
+Mont Blanc - Cloud
+Matterhorn - Cloud
+Mount Fuji - Cloud
+Denali - Plane
+Elbrus - Plane
+Aconcagua - Plane
+Annapurna - Plane
+Mount Olympus - Rare
+Vinson Massif - Rare
+Puncak Jaya - Rare
+Mauna Kea - Rare
+Kangchenjunga - One in Ballolion
+
+Question: Name a browser
+
+Answers:
+Google Chrome - Seagull
+Mozilla Firefox - Seagull
+Microsoft Edge - Seagull
+Safari - Cloud
+Opera - Cloud
+Brave - Cloud
+Vivaldi - Plane
+Tor Browser - Plane
+Chromium - Plane
+DuckDuckGo Browser - Rare
+Arc - Rare
+Pale Moon - Rare
+Waterfox - Rare
+Midori - Rare
+Lynx - One in Ballolion
+
+Question: Name a constellation
+
+Answers:
+Orion - Seagull
+Ursa Major - Seagull
+Ursa Minor - Cloud
+Cassiopeia - Cloud
+Andromeda - Cloud
+Leo - Plane
+Scorpius - Plane
+Taurus - Plane
+Gemini - Plane
+Pegasus - Plane
+Cygnus - Rare
+Aquila - Rare
