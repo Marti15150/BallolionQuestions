@@ -1,368 +1,996 @@
-Question: Name a country in Europe
+Question: Name a country in North America
 
 Answers:
-Germany - Seagull
-France - Seagull
-Italy - Seagull
-Spain - Seagull
-United Kingdom | UK | Great Britain | Britain | England | Scotland | Wales | Northern Ireland - Seagull
-Russia | Russian Federation - Seagull
-Greece - Seagull
-Portugal - Seagull
-Bulgaria - Cloud
-Netherlands | Holland - Cloud
-Belgium - Cloud
-Switzerland - Cloud
-Austria - Cloud
-Sweden - Cloud
-Norway - Cloud
-Denmark - Cloud
-Finland - Cloud
-Poland - Cloud
-Ireland - Cloud
-Turkey | Türkiye | Turkiye - Cloud
-Ukraine - Cloud
-Czech Republic | Czechia - Cloud
-Hungary - Cloud
-Romania - Cloud
-Croatia - Cloud
-Serbia - Plane
-Slovakia - Plane
-Slovenia - Plane
-Iceland - Plane
-Lithuania - Plane
-Latvia - Plane
-Estonia - Plane
-Belarus - Plane
-Bosnia and Herzegovina | Bosnia - Plane
-Albania - Plane
-North Macedonia | Macedonia - Plane
-Montenegro - Rare
-Cyprus - Plane
-Luxembourg - Rare
-Malta - Rare
-Moldova - Rare
-Monaco - Rare
-Liechtenstein - Rare
-Andorra - Rare
-San Marino - Rare
-Kosovo - Rare
-Vatican City | Vatican | Holy See - One in Ballolion
+United States | USA | United States of America - Seagull
+Canada - Seagull
+Mexico - Seagull
+Cuba - Cloud
+Guatemala - Cloud
+Haiti - Cloud
+Dominican Republic - Cloud
+Honduras - Plane
+Nicaragua - Plane
+El Salvador - Plane
+Costa Rica - Plane
+Panama - Plane
+Jamaica - Plane
+Trinidad and Tobago - Rare
+Bahamas | The Bahamas - Rare
+Belize - Rare
+Barbados - Rare
+Saint Lucia - Rare
+Grenada - Rare
+Saint Vincent and the Grenadines - Rare
+Antigua and Barbuda - Rare
+Dominica - Rare
+Saint Kitts and Nevis - One in Ballolion
 
-Question: Name a country in Asia
+Question: Name a country in Central America
 
 Answers:
-China - Seagull
-India - Seagull
+Guatemala - Seagull
+Costa Rica - Seagull
+Panama - Seagull
+Honduras - Cloud
+Nicaragua - Cloud
+El Salvador - Cloud
+Belize - Plane
+
+Question: Name a country in Oceania
+
+Answers:
+Australia - Seagull
+New Zealand - Seagull
+Papua New Guinea - Cloud
+Fiji - Cloud
+Solomon Islands - Plane
+Vanuatu - Plane
+Samoa - Plane
+Tonga - Plane
+Kiribati - Rare
+Micronesia | Federated States of Micronesia - Rare
+Marshall Islands - Rare
+Palau - Rare
+Nauru - Rare
+Tuvalu - One in Ballolion
+
+Question: Name a capital city in Europe
+
+Answers:
+London - Seagull
+Paris - Seagull
+Berlin - Seagull
+Rome - Seagull
+Madrid - Seagull
+Lisbon - Cloud
+Vienna - Cloud
+Amsterdam - Cloud
+Brussels - Cloud
+Athens - Cloud
+Warsaw - Cloud
+Prague - Cloud
+Budapest - Cloud
+Bucharest - Cloud
+Sofia - Cloud
+Stockholm - Plane
+Oslo - Plane
+Copenhagen - Plane
+Helsinki - Plane
+Dublin - Plane
+Bratislava - Plane
+Ljubljana - Plane
+Zagreb - Plane
+Belgrade - Plane
+Sarajevo - Plane
+Skopje - Plane
+Tirana - Plane
+Podgorica - Rare
+Pristina - Rare
+Chisinau - Rare
+Minsk - Rare
+Riga - Rare
+Vilnius - Rare
+Tallinn - Rare
+Reykjavik - Rare
+Bern - Rare
+Luxembourg City - Rare
+Vaduz - One in Ballolion
+Monaco - One in Ballolion
+Andorra la Vella - One in Ballolion
+San Marino - One in Ballolion
+Vatican City - One in Ballolion
+
+Question: Name a capital city in Asia
+
+Answers:
+Tokyo - Seagull
+Beijing - Seagull
+New Delhi | Delhi - Seagull
+Seoul - Seagull
+Bangkok - Cloud
+Jakarta - Cloud
+Manila - Cloud
+Hanoi - Cloud
+Islamabad - Cloud
+Riyadh - Cloud
+Ankara - Cloud
+Baghdad - Plane
+Tehran - Plane
+Kabul - Plane
+Kathmandu - Plane
+Dhaka - Plane
+Ulaanbaatar - Plane
+Astana - Plane
+Tashkent - Plane
+Kuala Lumpur - Plane
+Phnom Penh - Plane
+Vientiane - Plane
+Naypyidaw - Rare
+Thimphu - Rare
+Male - Rare
+Muscat - Rare
+Sana'a - Rare
+Amman - Rare
+Beirut - Rare
+Damascus - Rare
+Doha - Rare
+Kuwait City - Rare
+Manama - Rare
+Abu Dhabi - Rare
+Bishkek - Rare
+Dushanbe - Rare
+Ashgabat - Rare
+Yerevan - Rare
+Baku - Rare
+Tbilisi - Rare
+Bandar Seri Begawan - One in Ballolion
+Dili - One in Ballolion
+Pyongyang - Rare
+Taipei - Rare
+Colombo - Rare
+Sri Jayawardenepura Kotte - One in Ballolion
+
+Question: Name a capital city in Africa
+
+Answers:
+Cairo - Seagull
+Nairobi - Seagull
+Abuja - Seagull
+Accra - Cloud
+Addis Ababa - Cloud
+Dakar - Cloud
+Algiers - Cloud
+Rabat - Cloud
+Tunis - Cloud
+Kampala - Plane
+Kigali - Plane
+Lusaka - Plane
+Harare - Plane
+Maputo - Plane
+Luanda - Plane
+Tripoli - Plane
+Khartoum - Plane
+Juba - Plane
+Bamako - Plane
+Niamey - Plane
+N'Djamena - Plane
+Ouagadougou - Plane
+Conakry - Plane
+Freetown - Plane
+Monrovia - Plane
+Lome | Lomé - Plane
+Porto-Novo - Rare
+Cotonou - Rare
+Yamoussoukro - Rare
+Abidjan - Rare
+Yaounde | Yaoundé - Rare
+Malabo - Rare
+Libreville - Rare
+Brazzaville - Rare
+Kinshasa - Rare
+Bangui - Rare
+N'Djamena - Rare
+Bujumbura - Rare
+Gitega - Rare
+Maseru - Rare
+Mbabane - Rare
+Lobamba - Rare
+Gaborone - Rare
+Windhoek - Rare
+Mogadishu - Rare
+Djibouti - Rare
+Asmara - Rare
+Antananarivo - Rare
+Port Louis - Rare
+Victoria - Rare
+Moroni - Rare
+Praia - Rare
+Bissau - Rare
+Sao Tome - One in Ballolion
+
+Question: Name a capital city in South America
+
+Answers:
+Brasilia | Brasília - Seagull
+Buenos Aires - Seagull
+Lima - Seagull
+Santiago - Cloud
+Bogota | Bogotá - Cloud
+Caracas - Cloud
+Quito - Plane
+La Paz - Plane
+Sucre - Rare
+Asuncion | Asunción - Plane
+Montevideo - Plane
+Georgetown - Rare
+Paramaribo - Rare
+
+Question: Name a capital city in North America
+
+Answers:
+Washington, D.C. | Washington DC - Seagull
+Ottawa - Seagull
+Mexico City - Seagull
+Havana - Cloud
+Kingston - Cloud
+Guatemala City - Plane
+Tegucigalpa - Plane
+Managua - Plane
+San Salvador - Plane
+San Jose | San José - Plane
+Panama City - Plane
+Belmopan - Rare
+Port-au-Prince - Rare
+Santo Domingo - Rare
+Nassau - Rare
+Bridgetown - Rare
+Port of Spain - Rare
+Castries - Rare
+Kingstown - Rare
+Roseau - Rare
+Saint George's | St. George's - Rare
+Basseterre - One in Ballolion
+St. John's - One in Ballolion
+
+Question: Name a capital city in Oceania
+
+Answers:
+Canberra - Seagull
+Wellington - Seagull
+Port Moresby - Cloud
+Suva - Cloud
+Honiara - Plane
+Port Vila - Plane
+Apia - Plane
+Nuku'alofa - Plane
+Funafuti - Rare
+Tarawa - Rare
+Majuro - Rare
+Palikir - Rare
+Yaren - One in Ballolion
+Ngerulmud - One in Ballolion
+
+Question: Name an ocean
+
+Answers:
+Pacific Ocean - Seagull
+Atlantic Ocean - Seagull
+Indian Ocean - Seagull
+Arctic Ocean - Cloud
+Southern Ocean - Plane
+
+Question: Name a sea in Europe
+
+Answers:
+Mediterranean Sea - Seagull
+Black Sea - Seagull
+North Sea - Cloud
+Baltic Sea - Cloud
+Adriatic Sea - Cloud
+Aegean Sea - Plane
+Ionian Sea - Plane
+Norwegian Sea - Plane
+Celtic Sea - Rare
+White Sea - Rare
+Sea of Marmara - Rare
+Tyrrhenian Sea - Rare
+Ligurian Sea - Rare
+Alboran Sea - Rare
+Balearic Sea - Rare
+Irish Sea - Rare
+Wadden Sea - One in Ballolion
+
+Question: Name a sea in Asia
+
+Answers:
+South China Sea - Seagull
+Arabian Sea - Seagull
+Red Sea - Cloud
+Yellow Sea - Cloud
+Sea of Japan | East Sea - Cloud
+East China Sea - Cloud
+Philippine Sea - Plane
+Andaman Sea - Plane
+Bering Sea - Plane
+Caspian Sea - Plane
+Sea of Okhotsk - Rare
+Sea of Azov - Rare
+Celebes Sea - Rare
+Sulu Sea - Rare
+Java Sea - Rare
+Laccadive Sea - Rare
+Timor Sea - Rare
+Arafura Sea - One in Ballolion
+
+Question: Name a gulf
+
+Answers:
+Gulf of Mexico - Seagull
+Persian Gulf - Seagull
+Gulf of California - Cloud
+Gulf of Aden - Cloud
+Gulf of Guinea - Plane
+Gulf of Alaska - Plane
+Gulf of Oman - Plane
+Gulf of Thailand - Plane
+Gulf of Bothnia - Rare
+Gulf of Finland - Rare
+Gulf of Carpentaria - Rare
+Gulf of Aqaba - Rare
+Gulf of Suez - Rare
+Gulf of Riga - One in Ballolion
+
+Question: Name a strait
+
+Answers:
+Strait of Gibraltar - Seagull
+Bering Strait - Seagull
+Strait of Hormuz - Cloud
+Strait of Malacca - Cloud
+Bosporus | Bosphorus - Cloud
+Dardanelles - Plane
+English Channel - Plane
+Strait of Dover - Plane
+Taiwan Strait - Plane
+Palk Strait - Rare
+Torres Strait - Rare
+Magellan Strait - Rare
+Cook Strait - Rare
+Babelmandeb | Bab-el-Mandeb - One in Ballolion
+
+Question: Name an island in the Mediterranean Sea
+
+Answers:
+Sicily - Seagull
+Sardinia - Seagull
+Cyprus - Cloud
+Crete - Cloud
+Corsica - Cloud
+Malta - Plane
+Rhodes - Plane
+Majorca | Mallorca - Plane
+Ibiza - Plane
+Menorca - Rare
+Gozo - Rare
+Lampedusa - Rare
+Elba - Rare
+Capri - One in Ballolion
+
+Question: Name an island country
+
+Answers:
 Japan - Seagull
-South Korea | Republic of Korea - Cloud
-North Korea | DPRK - Cloud
-Thailand - Cloud
-Vietnam | Viet Nam - Cloud
-Indonesia - Cloud
-Philippines - Cloud
-Saudi Arabia - Cloud
-Iran - Cloud
-Iraq - Cloud
-Turkey | Türkiye | Turkiye - Cloud
-Israel - Cloud
-Pakistan - Cloud
-Malaysia - Cloud
-Russia - Cloud
-Singapore - Plane
-Bangladesh - Plane
-Afghanistan - Plane
-Nepal - Plane
-Mongolia - Plane
-Kazakhstan - Plane
-Uzbekistan - Plane
-Syria - Plane
-Jordan - Plane
-Lebanon - Plane
-United Arab Emirates | UAE | Emirates - Plane
-Qatar - Plane
-Kuwait - Plane
-Sri Lanka - Plane
-Cambodia - Plane
-Laos - Plane
-Myanmar | Burma - Plane
-Taiwan | Republic of China - Plane
-Georgia - Rare
-Armenia - Rare
-Azerbaijan - Rare
-Kyrgyzstan - Rare
-Tajikistan - Rare
-Turkmenistan - Rare
-Yemen - Rare
-Oman - Rare
-Bahrain - Rare
-Bhutan - Rare
-Brunei - Rare
-Palestine - Rare
-Cyprus - Rare
+Iceland - Seagull
+Madagascar - Seagull
+Cuba - Cloud
+Sri Lanka - Cloud
+New Zealand - Cloud
+Haiti - Plane
+Dominican Republic - Plane
+Jamaica - Plane
+Fiji - Plane
 Maldives - Rare
-Timor-Leste | East Timor - One in Ballolion
-
-Question: Name a country in Africa
-
-Answers:
-Egypt - Seagull
-South Africa - Seagull
-Nigeria - Seagull
-Morocco - Seagull
-Kenya - Seagull
-Ethiopia - Cloud
-Ghana - Cloud
-Algeria - Cloud
-Tunisia - Cloud
-Libya - Cloud
-Senegal - Cloud
-Tanzania - Cloud
-Uganda - Cloud
-Sudan - Cloud
-Cameroon - Cloud
-Ivory Coast | Côte d'Ivoire | Cote d'Ivoire - Cloud
-Zimbabwe - Cloud
-Mozambique - Cloud
-Angola - Cloud
-Madagascar - Cloud
-Democratic Republic of the Congo | DR Congo | DRC | Congo - Cloud
-Zambia - Plane
-Namibia - Plane
-Botswana - Plane
-Mali - Plane
-Niger - Plane
-Chad - Plane
-Somalia - Plane
-Rwanda - Plane
-Malawi - Plane
-Burkina Faso - Plane
-Guinea - Plane
-Benin - Plane
-Togo - Plane
-Sierra Leone - Plane
-Liberia - Plane
-Mauritania - Plane
-South Sudan - Plane
-Republic of the Congo | Congo-Brazzaville | Congo Brazzaville - Plane
-Gabon - Plane
-Mauritius - Plane
-Eritrea - Plane
-Djibouti - Plane
-Burundi - Rare
-Lesotho - Rare
-Eswatini | Swaziland - Rare
-Gambia | The Gambia - Rare
-Guinea-Bissau - Rare
-Equatorial Guinea - Rare
-Central African Republic - Rare
-Cape Verde | Cabo Verde - Rare
-Comoros - Rare
+Mauritius - Rare
 Seychelles - Rare
-São Tomé and Príncipe | Sao Tome and Principe | Sao Tome - One in Ballolion
+Comoros - Rare
+Bahamas - Rare
+Barbados - Rare
+Cyprus - Rare
+Malta - Rare
+Singapore - Rare
+Samoa - Rare
+Tonga - Rare
+Vanuatu - Rare
+Kiribati - Rare
+Micronesia - Rare
+Marshall Islands - Rare
+Palau - Rare
+Nauru - One in Ballolion
+Tuvalu - One in Ballolion
+Antigua and Barbuda - Rare
+Saint Lucia - Rare
+Grenada - Rare
+Saint Vincent and the Grenadines - Rare
+Trinidad and Tobago - Rare
+Saint Kitts and Nevis - One in Ballolion
 
-Question: Name a country in South America
-
-Answers:
-Brazil - Seagull
-Argentina - Seagull
-Chile - Cloud
-Peru - Cloud
-Colombia - Cloud
-Venezuela - Plane
-Ecuador - Plane
-Bolivia - Plane
-Uruguay - Plane
-Paraguay - Rare
-Guyana - Rare
-Suriname - Rare
-French Guiana - One in Ballolion
-
-Question: Name a US state
-
-Answers:
-California - Seagull
-Texas - Seagull
-Florida - Seagull
-New York - Seagull
-Alaska - Cloud
-Hawaii - Cloud
-Nevada - Cloud
-Arizona - Cloud
-Illinois - Cloud
-Georgia - Cloud
-Washington - Cloud
-Ohio - Cloud
-Pennsylvania - Cloud
-Michigan - Cloud
-Colorado - Cloud
-Massachusetts - Cloud
-Oregon - Plane
-Virginia - Plane
-New Jersey - Plane
-Louisiana - Plane
-Utah - Plane
-Tennessee - Plane
-North Carolina - Plane
-South Carolina - Plane
-Indiana - Plane
-Missouri - Plane
-Wisconsin - Plane
-Minnesota - Plane
-Kentucky - Plane
-Alabama - Plane
-Maryland - Plane
-Oklahoma - Plane
-Connecticut - Rare
-Iowa - Rare
-Kansas - Rare
-Mississippi - Rare
-Arkansas - Rare
-New Mexico - Rare
-Montana - Rare
-Idaho - Rare
-Nebraska - Rare
-Maine - Rare
-New Hampshire - Rare
-Vermont - Rare
-Wyoming - Rare
-West Virginia - Rare
-Delaware - One in Ballolion
-Rhode Island - Rare
-North Dakota - Rare
-South Dakota - Rare
-
-Question: Name a city in Bulgaria
+Question: Name a famous lake
 
 Answers:
-Sofia - Seagull
-Plovdiv - Seagull
-Varna - Seagull
-Burgas | Bourgas - Seagull
-Ruse | Rousse - Cloud
-Stara Zagora - Cloud
-Pleven - Cloud
-Veliko Tarnovo | Tarnovo | Veliko Turnovo - Cloud
-Sliven - Cloud
-Blagoevgrad - Cloud
-Dobrich - Cloud
-Shumen | Shoumen - Cloud
-Pernik - Cloud
-Haskovo - Plane
-Yambol - Plane
-Pazardzhik | Pazardjik - Plane
-Gabrovo - Plane
-Vratsa | Vratza - Plane
-Montana - Plane
-Vidin - Plane
-Kardzhali | Kurdzhali | Kardjali - Plane
-Kyustendil | Kjustendil - Plane
-Targovishte | Turgovishte - Plane
-Silistra - Plane
-Lovech - Plane
-Razgrad - Plane
-Smolyan - Plane
-Sandanski - Plane
-Bansko - Plane
-Sozopol - Plane
-Nessebar | Nesebar - Plane
-Razlog - Rare
-Samokov - Rare
-Dupnitsa | Dupnitza - Rare
-Asenovgrad - Rare
-Svishtov - Rare
-Troyan - Rare
-Kazanlak - Rare
-Sevlievo - Rare
-Lom - Rare
-Botevgrad - Rare
-Balchik - Rare
-Kavarna - Rare
-Tryavna - Rare
-Koprivshtitsa - Rare
-Pomorie - Rare
-Melnik - One in Ballolion
-Batak - Rare
-Pirdop - Rare
-Zlatograd - Rare
+Lake Superior - Seagull
+Lake Victoria - Seagull
+Lake Baikal - Cloud
+Lake Michigan - Cloud
+Lake Tanganyika - Cloud
+Lake Malawi - Plane
+Lake Ontario - Plane
+Lake Erie - Plane
+Lake Huron - Plane
+Lake Titicaca - Plane
+Lake Geneva - Rare
+Lake Chad - Rare
+Lake Turkana - Rare
+Lake Como - Rare
+Lake Balaton - Rare
+Lake Ladoga - Rare
+Lake Onega - Rare
+Dead Sea - Rare
+Great Salt Lake - Rare
+Loch Ness - One in Ballolion
 
-Question: Name a river in Europe
+Question: Name a river in Africa
 
 Answers:
-Danube - Seagull
-Rhine - Seagull
-Thames - Seagull
-Seine - Seagull
-Volga - Cloud
-Loire - Cloud
-Elbe - Cloud
-Po - Cloud
-Tiber - Cloud
-Rhone | Rhône - Cloud
-Ebro - Cloud
-Vistula - Plane
-Oder - Plane
-Dnieper | Dnipro - Plane
-Don - Plane
-Tagus - Plane
-Douro - Plane
-Garonne - Plane
-Meuse - Plane
-Main - Plane
-Neckar - Plane
-Moselle - Plane
-Tisza - Plane
-Sava - Plane
-Maritsa | Evros | Meric - Plane
-Struma | Strymon - Rare
-Iskar - Rare
-Vardar - Rare
-Arno - Rare
-Guadalquivir - Rare
-Shannon - Rare
-Neva - Rare
-Severn - Rare
-Inn - Rare
-Drava - Rare
-Morava - Rare
-Dniester | Dniestr - Rare
-Ural - Rare
-Mesta | Nestos - One in Ballolion
-Arda - Rare
-Yantra - Rare
-Tundzha - Rare
+Nile - Seagull
+Congo - Seagull
+Niger - Cloud
+Zambezi - Cloud
+Limpopo - Plane
+Orange River - Plane
+Senegal River - Plane
+Okavango - Plane
+Blue Nile - Plane
+White Nile - Rare
+Volta - Rare
+Benue - Rare
+Gambia River - Rare
+Kasai - Rare
+Ubangi - Rare
+Chari - Rare
+Ogooue | Ogooué - One in Ballolion
+
+Question: Name a river in Asia
+
+Answers:
+Yangtze | Chang Jiang - Seagull
+Yellow River | Huang He - Seagull
+Ganges | Ganga - Seagull
+Indus - Cloud
+Mekong - Cloud
+Tigris - Cloud
+Euphrates - Cloud
+Amur - Plane
+Irrawaddy | Ayeyarwady - Plane
+Brahmaputra - Plane
+Salween | Thanlwin - Rare
+Syr Darya - Rare
+Amu Darya - Rare
+Lena - Rare
+Ob - Rare
+Yenisei - Rare
+Jordan River - Rare
+Kura - Rare
+Helmand - One in Ballolion
+
+Question: Name a river in South America
+
+Answers:
+Amazon - Seagull
+Parana | Paraná - Seagull
+Orinoco - Cloud
+São Francisco | Sao Francisco - Cloud
+Madeira - Plane
+Negro River - Plane
+Uruguay River - Plane
+Tocantins - Plane
+Magdalena - Rare
+Essequibo - Rare
+Pilcomayo - Rare
+Putumayo | Içá - Rare
+Caqueta | Japura - Rare
+Xingu - One in Ballolion
+
+Question: Name a river in North America
+
+Answers:
+Mississippi - Seagull
+Missouri - Seagull
+Colorado River - Cloud
+Rio Grande - Cloud
+Yukon - Cloud
+St. Lawrence River - Plane
+Columbia River - Plane
+Mackenzie River - Plane
+Ohio River - Plane
+Tennessee River - Rare
+Arkansas River - Rare
+Snake River - Rare
+Platte River - Rare
+Fraser River - Rare
+Peace River - One in Ballolion
+
+Question: Name a river in Oceania
+
+Answers:
+Murray River - Seagull
+Darling River - Cloud
+Murrumbidgee River - Plane
+Waikato River - Plane
+Fly River - Rare
+Sepik River - Rare
+Clutha River | Mata-Au - Rare
+Waiau River - One in Ballolion
 
 Question: Name a continent
 
 Answers:
 Asia - Seagull
-Europe - Seagull
 Africa - Seagull
+Europe - Seagull
 North America - Cloud
 South America - Cloud
 Antarctica - Plane
 Oceania | Australia | Australasia - Plane
 Zealandia - One in Ballolion
 
-Question: Name a mountain range in Bulgaria
+Question: Name a mountain in Europe
 
 Answers:
-Rila - Seagull
-Pirin - Seagull
-Vitosha - Seagull
-Balkan Mountains | Stara Planina | Balkan | Balkans - Seagull
-Rhodopes | Rhodope | Rhodope Mountains | Rodopi - Cloud
-Strandzha | Strandja - Cloud
-Sredna Gora - Cloud
-Osogovo - Plane
-Belasitsa - Plane
-Slavyanka | Alibotush - Plane
-Lyulin - Plane
-Vlahina - Plane
-Sakar - Rare
-Lozen - Rare
-Verila - Rare
-Konyavska - Rare
-Ograzhden - One in Ballolion
-Maleshevska | Maleshevo - Rare
-Golo Bardo - Rare
+Mont Blanc - Seagull
+Matterhorn - Seagull
+Mount Elbrus - Cloud
+Mount Olympus - Cloud
+Zugspitze - Plane
+Grossglockner - Plane
+Ben Nevis - Plane
+Mount Etna - Plane
+Mulhacen | Mulhacén - Rare
+Triglav - Rare
+Dufourspitze - Rare
+Musala - Rare
+Vihren - One in Ballolion
+
+Question: Name a mountain in the world
+
+Answers:
+Mount Everest - Seagull
+K2 - Seagull
+Kangchenjunga - Cloud
+Lhotse - Cloud
+Makalu - Cloud
+Cho Oyu - Cloud
+Dhaulagiri - Plane
+Manaslu - Plane
+Nanga Parbat - Plane
+Annapurna - Plane
+Denali - Plane
+Aconcagua - Plane
+Kilimanjaro - Plane
+Mount Fuji - Rare
+Vinson Massif - Rare
+Puncak Jaya - Rare
+Mount Elbrus - Rare
+Mount Logan - Rare
+Mount Kosciuszko - One in Ballolion
+
+Question: Name a volcano
+
+Answers:
+Mount Vesuvius - Seagull
+Mount Fuji - Seagull
+Mount Etna - Cloud
+Krakatoa | Krakatau - Cloud
+Mount St. Helens - Cloud
+Mauna Loa - Plane
+Kilauea - Plane
+Popocatepetl | Popocatépetl - Plane
+Mount Pinatubo - Plane
+Eyjafjallajokull | Eyjafjallajökull - Rare
+Cotopaxi - Rare
+Mount Merapi - Rare
+Mount Nyiragongo - Rare
+Ol Doinyo Lengai - One in Ballolion
+
+Question: Name a waterfall
+
+Answers:
+Niagara Falls - Seagull
+Victoria Falls - Seagull
+Angel Falls - Cloud
+Iguazu Falls | Iguaçu Falls - Cloud
+Yosemite Falls - Plane
+Gullfoss - Plane
+Dettifoss - Plane
+Kaieteur Falls - Rare
+Tugela Falls - Rare
+Jog Falls - Rare
+Sutherland Falls - Rare
+Reichenbach Falls - One in Ballolion
+
+Question: Name a peninsula
+
+Answers:
+Arabian Peninsula - Seagull
+Iberian Peninsula - Seagull
+Italian Peninsula - Cloud
+Balkan Peninsula - Cloud
+Scandinavian Peninsula - Cloud
+Korean Peninsula - Plane
+Yucatan Peninsula | Yucatán Peninsula - Plane
+Malay Peninsula - Plane
+Kamchatka Peninsula - Rare
+Kola Peninsula - Rare
+Florida Peninsula - Rare
+Labrador Peninsula - Rare
+Crimean Peninsula - One in Ballolion
+
+Question: Name an archipelago
+
+Answers:
+Hawaiian Islands - Seagull
+Philippine Archipelago - Seagull
+Indonesian Archipelago - Cloud
+Japanese Archipelago - Cloud
+Canary Islands - Cloud
+Galapagos Islands | Galápagos Islands - Plane
+Maldives - Plane
+Seychelles - Plane
+Svalbard - Rare
+Andaman and Nicobar Islands - Rare
+Chagos Archipelago - Rare
+Aleutian Islands - Rare
+Society Islands - One in Ballolion
+
+Question: Name a mountain range outside Europe
+
+Answers:
+Himalayas - Seagull
+Andes - Seagull
+Rocky Mountains - Seagull
+Atlas Mountains - Cloud
+Appalachian Mountains - Cloud
+Great Dividing Range - Plane
+Zagros Mountains - Plane
+Tian Shan - Plane
+Kunlun Mountains - Rare
+Drakensberg - Rare
+Arakan Mountains - Rare
+Alaska Range - One in Ballolion
+
+Question: Name a canyon
+
+Answers:
+Grand Canyon - Seagull
+Fish River Canyon - Cloud
+Colca Canyon - Cloud
+Copper Canyon - Plane
+Antelope Canyon - Plane
+Kings Canyon - Plane
+Blyde River Canyon - Rare
+Yarlung Tsangpo Grand Canyon - Rare
+Cotahuasi Canyon - One in Ballolion
+
+Question: Name a rainforest
+
+Answers:
+Amazon Rainforest - Seagull
+Congo Rainforest - Seagull
+Daintree Rainforest - Cloud
+Borneo Rainforest - Cloud
+New Guinea Rainforest - Plane
+Atlantic Forest - Plane
+Valdivian Temperate Rainforest - Rare
+Bosawas Biosphere Reserve | Bosawás Biosphere Reserve - Rare
+Sinharaja Forest Reserve - One in Ballolion
+
+Question: Name a famous city in Asia
+
+Answers:
+Tokyo - Seagull
+Beijing - Seagull
+Seoul - Seagull
+Bangkok - Cloud
+Singapore - Cloud
+Dubai - Cloud
+Mumbai - Plane
+Osaka - Plane
+Kyoto - Plane
+Hong Kong - Plane
+Shanghai - Plane
+Samarkand - Rare
+Luang Prabang - Rare
+Bukhara - One in Ballolion
+
+Question: Name a famous city in Africa
+
+Answers:
+Cairo - Seagull
+Johannesburg - Seagull
+Cape Town - Seagull
+Marrakech - Cloud
+Casablanca - Cloud
+Lagos - Cloud
+Nairobi - Plane
+Zanzibar City - Plane
+Timbuktu - Rare
+Windhoek - Rare
+Lalibela - One in Ballolion
+
+Question: Name a famous city in South America
+
+Answers:
+Rio de Janeiro - Seagull
+Buenos Aires - Seagull
+Sao Paulo | São Paulo - Seagull
+Lima - Cloud
+Bogota | Bogotá - Cloud
+Santiago - Cloud
+Cusco - Plane
+Medellin | Medellín - Plane
+Valparaiso | Valparaíso - Plane
+Sucre - Rare
+Ushuaia - Rare
+Iquitos - One in Ballolion
+
+Question: Name a famous city in North America
+
+Answers:
+New York City | NYC - Seagull
+Los Angeles - Seagull
+Toronto - Seagull
+Chicago - Cloud
+Miami - Cloud
+Vancouver - Cloud
+San Francisco - Plane
+Montreal - Plane
+New Orleans - Plane
+Quebec City - Rare
+Anchorage - Rare
+Yellowknife - One in Ballolion
+
+Question: Name a famous city in Oceania
+
+Answers:
+Sydney - Seagull
+Melbourne - Seagull
+Auckland - Cloud
+Brisbane - Cloud
+Perth - Cloud
+Christchurch - Plane
+Gold Coast - Plane
+Hobart - Plane
+Darwin - Rare
+Dunedin - Rare
+Honiara - One in Ballolion
+
+Question: Name a famous European landmark
+
+Answers:
+Eiffel Tower - Seagull
+Colosseum - Seagull
+Big Ben | Elizabeth Tower - Seagull
+Leaning Tower of Pisa - Cloud
+Brandenburg Gate - Cloud
+Acropolis of Athens - Cloud
+Stonehenge - Plane
+Sagrada Familia | Sagrada Família - Plane
+Neuschwanstein Castle - Plane
+Pena Palace | Palácio da Pena - Rare
+Atomium - Rare
+Buzludzha Monument - One in Ballolion
+
+Question: Name a famous ancient wonder or monument
+
+Answers:
+Great Pyramid of Giza - Seagull
+Hanging Gardens of Babylon - Cloud
+Statue of Zeus at Olympia - Cloud
+Temple of Artemis - Cloud
+Mausoleum at Halicarnassus - Plane
+Colossus of Rhodes - Plane
+Lighthouse of Alexandria - Plane
+Petra - Rare
+Göbekli Tepe | Gobekli Tepe - Rare
+Hattusa - One in Ballolion
+
+Question: Name a famous island
+
+Answers:
+Greenland - Seagull
+Madagascar - Seagull
+Iceland - Cloud
+Bali - Cloud
+Crete - Cloud
+Tasmania - Plane
+Corsica - Plane
+Bora Bora - Plane
+Socotra - Rare
+Reunion | Réunion - Rare
+Bouvet Island - One in Ballolion
+
+Question: Name a famous national park
+
+Answers:
+Yellowstone National Park - Seagull
+Grand Canyon National Park - Seagull
+Serengeti National Park - Cloud
+Kruger National Park - Cloud
+Banff National Park - Plane
+Plitvice Lakes National Park - Plane
+Iguazu National Park | Iguaçu National Park - Plane
+Torres del Paine National Park - Rare
+Komodo National Park - Rare
+Goreme National Park | Göreme National Park - One in Ballolion
+
+Question: Name a famous ancient city
+
+Answers:
+Rome - Seagull
+Athens - Seagull
+Pompeii - Cloud
+Troy - Cloud
+Babylon - Cloud
+Persepolis - Plane
+Petra - Plane
+Ephesus - Plane
+Carthage - Rare
+Palmyra - Rare
+Hampi - One in Ballolion
+
+Question: Name a country that borders the Mediterranean Sea
+
+Answers:
+Spain - Seagull
+France - Seagull
+Italy - Seagull
+Greece - Seagull
+Turkey | Türkiye | Turkiye - Cloud
+Egypt - Cloud
+Morocco - Cloud
+Algeria - Plane
+Tunisia - Plane
+Libya - Plane
+Albania - Plane
+Montenegro - Rare
+Croatia - Rare
+Bosnia and Herzegovina - Rare
+Slovenia - Rare
+Monaco - Rare
+Malta - Rare
+Cyprus - Rare
+Syria - Rare
+Lebanon - Rare
+Israel - Rare
+Palestine - One in Ballolion
+
+Question: Name a landlocked country in Europe
+
+Answers:
+Switzerland - Seagull
+Austria - Seagull
+Hungary - Cloud
+Serbia - Cloud
+Slovakia - Cloud
+Czech Republic | Czechia - Cloud
+Luxembourg - Plane
+Belarus - Plane
+North Macedonia - Plane
+Moldova - Rare
+Liechtenstein - Rare
+Andorra - Rare
+San Marino - Rare
+Vatican City - One in Ballolion
+
+Question: Name a country crossed by the Equator
+
+Answers:
+Ecuador - Seagull
+Brazil - Seagull
+Indonesia - Seagull
+Kenya - Cloud
+Colombia - Cloud
+Uganda - Cloud
+Gabon - Plane
+Somalia - Plane
+Republic of the Congo - Plane
+Democratic Republic of the Congo - Plane
+São Tomé and Príncipe | Sao Tome and Principe - Rare
+Kiribati - One in Ballolion
+
+Question: Name a country in Scandinavia
+
+Answers:
+Sweden - Seagull
+Norway - Seagull
+Denmark - Seagull
+
+Question: Name a country in the Middle East
+
+Answers:
+Saudi Arabia - Seagull
+Iran - Seagull
+Iraq - Cloud
+Israel - Cloud
+Jordan - Cloud
+Lebanon - Plane
+Oman - Plane
+Qatar - Plane
+Bahrain - Rare
+Kuwait - Rare
+Yemen - Rare
+United Arab Emirates | UAE - Rare
+Syria - Rare
+Palestine - One in Ballolion
+
+Question: Name a country in Central Asia
+
+Answers:
+Kazakhstan - Seagull
+Uzbekistan - Cloud
+Kyrgyzstan - Plane
+Tajikistan - Plane
+Turkmenistan - Plane
+
+Question: Name a country that borders the Black Sea
+
+Answers:
+Turkey | Türkiye | Turkiye - Seagull
+Bulgaria - Seagull
+Romania - Seagull
+Ukraine - Cloud
+Russia - Cloud
+Georgia - Plane
+
+Question: Name a country that borders Germany
+
+Answers:
+France - Seagull
+Poland - Seagull
+Austria - Seagull
+Switzerland - Cloud
+Netherlands - Cloud
+Belgium - Cloud
+Denmark - Plane
+Czech Republic | Czechia - Plane
+Luxembourg - Rare
+
+Question: Name a country that borders China
+
+Answers:
+India - Seagull
+Russia - Seagull
+Mongolia - Cloud
+Pakistan - Cloud
+Nepal - Cloud
+Afghanistan - Plane
+Kazakhstan - Plane
+Myanmar | Burma - Plane
+Bhutan - Rare
+Tajikistan - Rare
+Kyrgyzstan - Rare
+North Korea | DPRK - Rare
+Laos - One in Ballolion
+
+Question: Name a country that borders Brazil
+
+Answers:
+Argentina - Seagull
+Bolivia - Seagull
+Colombia - Cloud
+Peru - Cloud
+Venezuela - Cloud
+Paraguay - Plane
+Uruguay - Plane
+Guyana - Rare
+Suriname - Rare
+France | French Guiana - One in Ballolion
