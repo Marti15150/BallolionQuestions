@@ -1,124 +1,1126 @@
-Question: Name a big cat
+Question: Name a dog breed
 
 Answers:
+Labrador | Labrador Retriever - Seagull
+German Shepherd - Seagull
+Golden Retriever - Seagull
+Bulldog | English Bulldog - Seagull
+Poodle - Cloud
+Beagle - Cloud
+Rottweiler - Cloud
+Husky | Siberian Husky - Cloud
+Chihuahua - Plane
+Dachshund | Sausage Dog - Plane
+Boxer - Plane
+Border Collie - Plane
+Great Dane - Plane
+Shih Tzu - Rare
+Corgi | Welsh Corgi - Rare
+Dalmatian - Rare
+Pomeranian - Rare
+Australian Shepherd - Rare
+Saint Bernard - One in Ballolion
+Basenji - Rare
+
+Question: Name a type of snake
+
+Answers:
+Python - Seagull
+Cobra - Seagull
+Rattlesnake - Seagull
+Viper - Seagull
+Boa | Boa Constrictor - Cloud
+Anaconda - Cloud
+Mamba | Black Mamba - Cloud
+Copperhead - Cloud
+Garter Snake - Plane
+Corn Snake - Plane
+King Snake - Plane
+Adder - Plane
+Sea Snake - Plane
+Milk Snake - Rare
+Coral Snake - Rare
+Hognose Snake - Rare
+Boomslang - Rare
+Taipan - Rare
+Bushmaster - One in Ballolion
+Krait - Rare
+
+Question: Name a type of bear
+
+Answers:
+Grizzly Bear | Grizzly - Seagull
+Polar Bear - Seagull
+Black Bear | American Black Bear - Seagull
+Panda | Giant Panda - Seagull
+Brown Bear - Cloud
+Kodiak Bear - Cloud
+Sun Bear - Cloud
+Sloth Bear - Cloud
+Spectacled Bear | Andean Bear - Plane
+Asiatic Black Bear | Moon Bear - Plane
+Cave Bear - Plane
+Spirit Bear - Plane
+Gobi Bear - Rare
+Marsican Bear - Rare
+Glacier Bear - Rare
+Kermode Bear - Rare
+Syrian Brown Bear - Rare
+Ussuri Brown Bear - One in Ballolion
+Formosan Black Bear - Rare
+
+Question: Name a type of whale
+
+Answers:
+Blue Whale - Seagull
+Orca | Killer Whale - Seagull
+Humpback Whale - Seagull
+Sperm Whale - Seagull
+Beluga Whale | Beluga - Cloud
+Gray Whale | Grey Whale - Cloud
+Fin Whale - Cloud
+Minke Whale - Cloud
+Right Whale - Plane
+Narwhal - Plane
+Pilot Whale - Plane
+Bowhead Whale - Plane
+Sei Whale - Plane
+Bryde's Whale - Rare
+Pygmy Right Whale - Rare
+Dwarf Sperm Whale - Rare
+Omura's Whale - Rare
+Cuvier's Beaked Whale - Rare
+Shepherd's Beaked Whale - One in Ballolion
+True's Beaked Whale - Rare
+
+Question: Name a type of penguin
+
+Answers:
+Emperor Penguin - Seagull
+King Penguin - Seagull
+Adelie Penguin - Seagull
+Chinstrap Penguin - Seagull
+Gentoo Penguin - Cloud
+Macaroni Penguin - Cloud
+Rockhopper Penguin - Cloud
+Little Penguin | Fairy Penguin - Cloud
+Yellow-eyed Penguin - Plane
+Fiordland Penguin - Plane
+Snares Penguin - Plane
+Humboldt Penguin - Plane
+African Penguin - Plane
+Royal Penguin - Rare
+Erect-crested Penguin - Rare
+Northern Rockhopper Penguin - Rare
+Southern Rockhopper Penguin - Rare
+Galapagos Penguin - Rare
+White-flippered Penguin - One in Ballolion
+Banded Penguin - Rare
+
+Question: Name a type of owl
+
+Answers:
+Barn Owl - Seagull
+Great Horned Owl - Seagull
+Snowy Owl - Seagull
+Tawny Owl - Seagull
+Eagle Owl | Eurasian Eagle-Owl - Cloud
+Screech Owl - Cloud
+Barred Owl - Cloud
+Burrowing Owl - Cloud
+Long-eared Owl - Plane
+Short-eared Owl - Plane
+Northern Hawk Owl - Plane
+Elf Owl - Plane
+Pygmy Owl - Plane
+Spectacled Owl - Rare
+Blakiston's Fish Owl - Rare
+Powerful Owl - Rare
+Ural Owl - Rare
+Oriental Bay Owl - Rare
+Sokoke Scops Owl - One in Ballolion
+Pearly-eyed Thrasher Owl - Rare
+
+Question: Name a type of parrot
+
+Answers:
+Macaw - Seagull
+Cockatoo - Seagull
+African Grey | African Grey Parrot - Seagull
+Budgie | Budgerigar - Seagull
+Amazon Parrot - Cloud
+Cockatiel - Cloud
+Conure - Cloud
+Lovebird - Cloud
+Eclectus Parrot - Plane
+Lorikeet - Plane
+Caique - Plane
+Quaker Parrot | Monk Parakeet - Plane
+Senegal Parrot - Plane
+Pionus Parrot - Rare
+Kakapo - Rare
+Kea - Rare
+Pesquet's Parrot - Rare
+Vasa Parrot - Rare
+Night Parrot - One in Ballolion
+Golden-shouldered Parrot - Rare
+
+Question: Name a type of frog
+
+Answers:
+Tree Frog - Seagull
+Bullfrog - Seagull
+Poison Dart Frog - Seagull
+Toad - Seagull
+Leopard Frog - Cloud
+Wood Frog - Cloud
+Glass Frog - Cloud
+Red-eyed Tree Frog - Cloud
+Pacman Frog - Plane
+Horned Frog - Plane
+Tomato Frog - Plane
+Dart Frog - Plane
+Mantella - Plane
+Goliath Frog - Rare
+Purple Frog - Rare
+Lake Titicaca Frog - Rare
+Darwin's Frog - Rare
+Hairy Frog - Rare
+Surinam Toad - One in Ballolion
+Paradoxical Frog - Rare
+
+Question: Name a type of butterfly
+
+Answers:
+Monarch Butterfly - Seagull
+Swallowtail - Seagull
+Painted Lady - Seagull
+Cabbage White - Seagull
+Blue Morpho - Cloud
+Swallowtail Butterfly - Cloud
+Red Admiral - Cloud
+Peacock Butterfly - Cloud
+Glasswing Butterfly - Plane
+Birdwing Butterfly - Plane
+Apollo Butterfly - Plane
+Fritillary - Plane
+Hairstreak - Plane
+Skipper Butterfly - Rare
+Metalmark - Rare
+Clearwing Butterfly - Rare
+Owl Butterfly - Rare
+Map Butterfly - Rare
+Queen Alexandra's Birdwing - One in Ballolion
+Kaiser-i-Hind - Rare
+
+Question: Name a type of spider
+
+Answers:
+Tarantula - Seagull
+Black Widow - Seagull
+Jumping Spider - Seagull
+Wolf Spider - Seagull
+Orb Weaver - Cloud
+House Spider - Cloud
+Brown Recluse - Cloud
+Hobo Spider - Cloud
+Funnel Web Spider - Plane
+Trapdoor Spider - Plane
+Crab Spider - Plane
+Cellar Spider - Plane
+Nursery Web Spider - Plane
+Goliath Bird-eating Spider - Rare
+Sydney Funnel-web - Rare
+Brazilian Wandering Spider - Rare
+Peacock Spider - Rare
+Net-casting Spider - Rare
+Darwin's Bark Spider - One in Ballolion
+Fringed Jumping Spider - Rare
+
+Question: Name a type of dinosaur
+
+Answers:
+Tyrannosaurus Rex | T-Rex - Seagull
+Triceratops - Seagull
+Velociraptor - Seagull
+Stegosaurus - Seagull
+Brachiosaurus - Cloud
+Diplodocus - Cloud
+Spinosaurus - Cloud
+Ankylosaurus - Cloud
+Allosaurus - Plane
+Pterodactyl - Plane
+Plesiosaurus - Plane
+Iguanodon - Plane
+Parasaurolophus - Plane
+Compsognathus - Rare
+Dilophosaurus - Rare
+Carnotaurus - Rare
+Therizinosaurus - Rare
+Deinonychus - Rare
+Microraptor - One in Ballolion
+Yi Qi - Rare
+
+Question: Name a type of fish
+
+Answers:
+Salmon - Seagull
+Tuna - Seagull
+Trout - Seagull
+Goldfish - Seagull
+Bass - Cloud
+Cod - Cloud
+Shark - Cloud
+Catfish - Cloud
+Swordfish - Plane
+Marlin - Plane
+Piranha - Plane
+Clownfish - Plane
+Angelfish - Plane
+Coelacanth - Rare
+Arapaima - Rare
+Mola Mola | Ocean Sunfish - Rare
+Sturgeon - Rare
+Gar - Rare
+Wels Catfish - One in Ballolion
+Arowana - Rare
+
+Question: Name a type of bird
+
+Answers:
+Sparrow - Seagull
+Pigeon - Seagull
+Crow - Seagull
+Robin - Seagull
+Eagle - Cloud
+Parrot - Cloud
+Owl - Cloud
+Penguin - Cloud
+Hummingbird - Plane
+Peacock - Plane
+Flamingo - Plane
+Swan - Plane
+Pelican - Plane
+Kiwi - Rare
+Cassowary - Rare
+Hoatzin - Rare
+Secretarybird - Rare
+Shoebill - Rare
+Kakapo - One in Ballolion
+Oilbird - Rare
+
+Question: Name a type of insect
+
+Answers:
+Ant - Seagull
+Bee - Seagull
+Butterfly - Seagull
+Fly - Seagull
+Beetle - Cloud
+Mosquito - Cloud
+Grasshopper - Cloud
+Dragonfly - Cloud
+Moth - Plane
+Wasp - Plane
+Cricket - Plane
+Ladybug | Ladybird - Plane
+Praying Mantis - Plane
+Stick Insect - Rare
+Leaf Insect - Rare
+Cicada - Rare
+Firefly - Rare
+Termite - Rare
+Goliath Beetle - One in Ballolion
+Atlas Moth - Rare
+
+Question: Name a type of mammal
+
+Answers:
+Dog - Seagull
+Cat - Seagull
+Human - Seagull
+Horse - Seagull
+Cow - Cloud
+Pig - Cloud
+Lion - Cloud
+Elephant - Cloud
+Whale - Plane
+Bat - Plane
+Kangaroo - Plane
+Bear - Plane
+Deer - Plane
+Platypus - Rare
+Echidna - Rare
+Aardvark - Rare
+Pangolin - Rare
+Numbat - Rare
+Solenodon - One in Ballolion
+Okapi - Rare
+
+Question: Name a type of reptile
+
+Answers:
+Snake - Seagull
+Lizard - Seagull
+Turtle - Seagull
+Crocodile - Seagull
+Alligator - Cloud
+Iguana - Cloud
+Gecko - Cloud
+Chameleon - Cloud
+Komodo Dragon - Plane
+Tortoise - Plane
+Monitor Lizard - Plane
+Skink - Plane
+Anole - Plane
+Tuatura - Rare
+Gila Monster - Rare
+Beaded Lizard - Rare
+Frilled Lizard - Rare
+Thorny Devil - Rare
+Earless Monitor Lizard - One in Ballolion
+Chinese Crocodile Lizard - Rare
+
+Question: Name a type of amphibian
+
+Answers:
+Frog - Seagull
+Toad - Seagull
+Salamander - Seagull
+Newt - Seagull
+Tree Frog - Cloud
+Axolotl - Cloud
+Caecilian - Cloud
+Hellbender - Cloud
+Mudpuppy - Plane
+Olm - Plane
+Siren - Plane
+Amphiuma - Plane
+Fire Salamander - Plane
+Chinese Giant Salamander - Rare
+Japanese Giant Salamander - Rare
+Purple Frog - Rare
+Limnonectes - Rare
+Gardiner's Frog - Rare
+Seychelles Frog - One in Ballolion
+Archey's Frog - Rare
+
+Question: Name a type of rodent
+
+Answers:
+Mouse - Seagull
+Rat - Seagull
+Squirrel - Seagull
+Hamster - Seagull
+Guinea Pig - Cloud
+Rabbit - Cloud
+Beaver - Cloud
+Porcupine - Cloud
+Chipmunk - Plane
+Gerbil - Plane
+Capybara - Plane
+Marmot - Plane
+Prairie Dog - Plane
+Naked Mole Rat - Rare
+Jerboa - Rare
+Viscacha - Rare
+Agouti - Rare
+Pacarana - Rare
+Laotian Rock Rat - One in Ballolion
+Degu - Rare
+
+Question: Name a type of cat
+
+Answers:
+Domestic Cat | House Cat - Seagull
 Lion - Seagull
 Tiger - Seagull
-Leopard - Cloud
+Leopard - Seagull
 Cheetah - Cloud
 Jaguar - Cloud
-Panther - Cloud
-Cougar | Puma | Mountain Lion - Plane
-Snow Leopard - Plane
-Liger - Plane
+Cougar | Puma - Cloud
+Lynx - Cloud
+Ocelot - Plane
+Serval - Plane
+Caracal - Plane
+Bobcat - Plane
+Wildcat - Plane
 Clouded Leopard - Rare
-Tigon - Rare
-Sunda Clouded Leopard - One in Ballolion
+Snow Leopard - Rare
+Fishing Cat - Rare
+Pallas's Cat - Rare
+Sand Cat - Rare
+Andean Mountain Cat - One in Ballolion
+Iriomote Cat - Rare
 
-Question: Name a farm animal
-
-Answers:
-Cow | Cattle - Seagull
-Pig | Hog - Seagull
-Chicken | Hen - Seagull
-Sheep | Lamb - Seagull
-Horse - Seagull
-Goat - Cloud
-Duck - Cloud
-Turkey - Cloud
-Donkey - Cloud
-Goose - Plane
-Rabbit - Plane
-Bull - Plane
-Ox - Plane
-Rooster - Plane
-Llama - Rare
-Alpaca - Rare
-Buffalo - Rare
-Quail - Rare
-Ostrich - Rare
-Emu - One in Ballolion
-Yak - Rare
-Camel - Rare
-
-Question: Name a bird of prey
+Question: Name a type of horse
 
 Answers:
-Eagle - Seagull
-Hawk - Seagull
-Falcon - Seagull
-Owl - Seagull
-Vulture - Cloud
-Buzzard - Cloud
-Kite - Cloud
-Osprey - Cloud
-Harrier - Plane
-Kestrel - Plane
-Condor - Plane
-Peregrine Falcon - Plane
-Golden Eagle - Plane
-Bald Eagle - Plane
-Goshawk - Rare
-Sparrowhawk - Rare
-Secretary Bird - Rare
-Harpy Eagle - Rare
-Gyrfalcon - Rare
-Merlin - Rare
-Lammergeier | Bearded Vulture - One in Ballolion
-Caracara - Rare
+Thoroughbred - Seagull
+Arabian - Seagull
+Quarter Horse - Seagull
+Mustang - Seagull
+Appaloosa - Cloud
+Paint Horse - Cloud
+Clydesdale - Cloud
+Shire - Cloud
+Friesian - Plane
+Andalusian - Plane
+Morgan - Plane
+Tennessee Walking Horse - Plane
+Icelandic Horse - Plane
+Akhal-Teke - Rare
+Przewalski's Horse - Rare
+Fjord Horse - Rare
+Haflinger - Rare
+Knabstrupper - Rare
+Marwari - One in Ballolion
+Bashkir Curly - Rare
 
-Question: Name a primate
+Question: Name a type of cow
 
 Answers:
-Monkey - Seagull
+Holstein - Seagull
+Angus | Aberdeen Angus - Seagull
+Jersey - Seagull
+Hereford - Seagull
+Charolais - Cloud
+Limousin - Cloud
+Simmental - Cloud
+Brahman - Cloud
+Highland Cattle - Plane
+Dexter - Plane
+Ayrshire - Plane
+Guernsey - Plane
+Texas Longhorn - Plane
+Wagyu - Rare
+Belgian Blue - Rare
+Piedmontese - Rare
+Ankole-Watusi - Rare
+Galloway - Rare
+Yakutian Cattle - One in Ballolion
+Chianina - Rare
+
+Question: Name a type of pig
+
+Answers:
+Domestic Pig - Seagull
+Wild Boar - Seagull
+Pot-bellied Pig - Seagull
+Berkshire - Seagull
+Yorkshire - Cloud
+Hampshire - Cloud
+Duroc - Cloud
+Landrace - Cloud
+Tamworth - Plane
+Gloucestershire Old Spots - Plane
+Mangalitsa - Plane
+Kunekune - Plane
+Meishan - Plane
+Babirusa - Rare
+Red River Hog - Rare
+Warthog - Rare
+Pecary - Rare
+Visayan Warty Pig - Rare
+Pygmy Hog - One in Ballolion
+Javan Warty Pig - Rare
+
+Question: Name a type of sheep
+
+Answers:
+Merino - Seagull
+Suffolk - Seagull
+Dorset - Seagull
+Hampshire - Seagull
+Romney - Cloud
+Texel - Cloud
+Cheviot - Cloud
+Border Leicester - Cloud
+Jacob Sheep - Plane
+Shetland - Plane
+Icelandic Sheep - Plane
+Karakul - Plane
+Awassi - Plane
+Soay Sheep - Rare
+Hebridean Sheep - Rare
+Manx Loaghtan - Rare
+Castlemilk Moorit - Rare
+North Ronaldsay Sheep - Rare
+Ouessant Sheep - One in Ballolion
+Valais Blacknose - Rare
+
+Question: Name a type of goat
+
+Answers:
+Domestic Goat - Seagull
+Boer Goat - Seagull
+Nubian Goat - Seagull
+Alpine Goat - Seagull
+Saanen - Cloud
+Toggenburg - Cloud
+Angora Goat - Cloud
+Cashmere Goat - Cloud
+Pygmy Goat - Plane
+Nigerian Dwarf - Plane
+LaMancha - Plane
+Oberhasli - Plane
+Kiko - Plane
+Markhor - Rare
+Ibex - Rare
+Bezoar - Rare
+Kalahari Red - Rare
+Spanish Goat - Rare
+Muskox - One in Ballolion
+Tahr - Rare
+
+Question: Name a type of chicken
+
+Answers:
+Rhode Island Red - Seagull
+Leghorn - Seagull
+Plymouth Rock - Seagull
+Sussex - Seagull
+Orpington - Cloud
+Wyandotte - Cloud
+Silkie - Cloud
+Brahma - Cloud
+Cochin - Plane
+Australorp - Plane
+Marans - Plane
+Ameraucana - Plane
+Polish Chicken - Plane
+Ayam Cemani - Rare
+Phoenix Chicken - Rare
+Sebright - Rare
+Dutch Bantam - Rare
+Appenzeller Spitzhauben - Rare
+Onagadori - One in Ballolion
+Yokohama - Rare
+
+Question: Name a type of duck
+
+Answers:
+Mallard - Seagull
+Pekin Duck - Seagull
+Muscovy Duck - Seagull
+Indian Runner - Seagull
+Khaki Campbell - Cloud
+Rouen - Cloud
+Cayuga - Cloud
+Call Duck - Cloud
+Aylesbury - Plane
+Orpington Duck - Plane
+Swedish Blue - Plane
+Crested Duck - Plane
+Mandarin Duck - Plane
+Wood Duck - Rare
+Harlequin Duck - Rare
+Eider - Rare
+Spectacled Eider - Rare
+Steller's Eider - Rare
+Pink-headed Duck - One in Ballolion
+White-winged Duck - Rare
+
+Question: Name a type of goose
+
+Answers:
+Canada Goose - Seagull
+Embden Goose - Seagull
+Toulouse Goose - Seagull
+Chinese Goose - Seagull
+Pilgrim Goose - Cloud
+Sebastopol Goose - Cloud
+African Goose - Cloud
+Pomeranian Goose - Cloud
+Egyptian Goose - Plane
+Bar-headed Goose - Plane
+Snow Goose - Plane
+Barnacle Goose - Plane
+Greylag Goose - Plane
+Red-breasted Goose - Rare
+Nene | Hawaiian Goose - Rare
+Cape Barren Goose - Rare
+Magpie Goose - Rare
+Swan Goose - Rare
+Blue-winged Goose - One in Ballolion
+Spur-winged Goose - Rare
+
+Question: Name a type of rabbit
+
+Answers:
+Dutch Rabbit - Seagull
+Holland Lop - Seagull
+Netherland Dwarf - Seagull
+Rex Rabbit - Seagull
+Angora Rabbit - Cloud
+Lionhead - Cloud
+Flemish Giant - Cloud
+English Lop - Cloud
+Mini Rex - Plane
+Himalayan Rabbit - Plane
+Californian - Plane
+New Zealand White - Plane
+Harlequin Rabbit - Plane
+Belgian Hare - Rare
+Silver Fox - Rare
+American Fuzzy Lop - Rare
+Blanc de Hotot - Rare
+Jersey Wooly - Rare
+Amami Rabbit - One in Ballolion
+Riverine Rabbit - Rare
+
+Question: Name a type of turtle
+
+Answers:
+Sea Turtle - Seagull
+Box Turtle - Seagull
+Snapping Turtle - Seagull
+Red-eared Slider - Seagull
+Painted Turtle - Cloud
+Softshell Turtle - Cloud
+Map Turtle - Cloud
+Musk Turtle - Cloud
+Wood Turtle - Plane
+Blanding's Turtle - Plane
+Diamondback Terrapin - Plane
+Spotted Turtle - Plane
+Bog Turtle - Plane
+Alligator Snapping Turtle - Rare
+Leatherback Sea Turtle - Rare
+Hawksbill Sea Turtle - Rare
+Kemp's Ridley - Rare
+Flatback Sea Turtle - Rare
+Yangtze Giant Softshell Turtle - One in Ballolion
+Mata Mata - Rare
+
+Question: Name a type of lizard
+
+Answers:
+Iguana - Seagull
+Gecko - Seagull
+Chameleon - Seagull
+Monitor Lizard - Seagull
+Skink - Cloud
+Anole - Cloud
+Bearded Dragon - Cloud
+Leopard Gecko - Cloud
+Komodo Dragon - Plane
+Frilled Lizard - Plane
+Horned Lizard - Plane
+Basilisk - Plane
+Tegu - Plane
+Gila Monster - Rare
+Tokay Gecko - Rare
+Flying Dragon - Rare
+Thorny Devil - Rare
+Chinese Water Dragon - Rare
+Earless Monitor - One in Ballolion
+Crocodile Skink - Rare
+
+Question: Name a type of crocodile
+
+Answers:
+Nile Crocodile - Seagull
+Saltwater Crocodile - Seagull
+American Crocodile - Seagull
+American Alligator - Seagull
+Orinoco Crocodile - Cloud
+Cuban Crocodile - Cloud
+Morelet's Crocodile - Cloud
+Philippine Crocodile - Cloud
+Siamese Crocodile - Plane
+Mugger Crocodile - Plane
+Freshwater Crocodile - Plane
+Dwarf Crocodile - Plane
+Slender-snouted Crocodile - Plane
+Gharial - Rare
+False Gharial - Rare
+Chinese Alligator - Rare
+Black Caiman - Rare
+Spectacled Caiman - Rare
+Tomistoma - One in Ballolion
+West African Crocodile - Rare
+
+Question: Name a type of eagle
+
+Answers:
+Bald Eagle - Seagull
+Golden Eagle - Seagull
+Harpy Eagle - Seagull
+White-tailed Eagle - Seagull
+Philippine Eagle - Cloud
+Steller's Sea Eagle - Cloud
+Martial Eagle - Cloud
+Wedge-tailed Eagle - Cloud
+African Fish Eagle - Plane
+Sea Eagle - Plane
+Bateleur - Plane
+Crowned Eagle - Plane
+Verreaux's Eagle - Plane
+Spanish Imperial Eagle - Rare
+Haast's Eagle - Rare
+Madagascar Fish Eagle - Rare
+Sanford's Sea Eagle - Rare
+Pallas's Fish Eagle - Rare
+Flores Hawk-Eagle - One in Ballolion
+Javan Hawk-Eagle - Rare
+
+Question: Name a type of hawk
+
+Answers:
+Red-tailed Hawk - Seagull
+Cooper's Hawk - Seagull
+Sharp-shinned Hawk - Seagull
+Northern Goshawk - Seagull
+Harris's Hawk - Cloud
+Swainson's Hawk - Cloud
+Rough-legged Hawk - Cloud
+Ferruginous Hawk - Cloud
+Red-shouldered Hawk - Plane
+Broad-winged Hawk - Plane
+Zone-tailed Hawk - Plane
+Gray Hawk - Plane
+Common Buzzard - Plane
+Eurasian Sparrowhawk - Rare
+Black Hawk - Rare
+Roadside Hawk - Rare
+White-tailed Hawk - Rare
+Galapagos Hawk - Rare
+Ridgway's Hawk - One in Ballolion
+Hawaiian Hawk - Rare
+
+Question: Name a type of falcon
+
+Answers:
+Peregrine Falcon - Seagull
+American Kestrel - Seagull
+Merlin - Seagull
+Gyrfalcon - Seagull
+Prairie Falcon - Cloud
+Aplomado Falcon - Cloud
+Lanner Falcon - Cloud
+Saker Falcon - Cloud
+Hobby | Eurasian Hobby - Plane
+Eleonora's Falcon - Plane
+Red-footed Falcon - Plane
+Amur Falcon - Plane
+Bat Falcon - Plane
+Orange-breasted Falcon - Rare
+Taita Falcon - Rare
+Seychelles Kestrel - Rare
+Mauritius Kestrel - Rare
+New Zealand Falcon - Rare
+Grey Falcon - One in Ballolion
+Black Falcon - Rare
+
+Question: Name a type of vulture
+
+Answers:
+Turkey Vulture - Seagull
+Black Vulture - Seagull
+Griffon Vulture - Seagull
+Egyptian Vulture - Seagull
+Bearded Vulture | Lammergeier - Cloud
+Cinereous Vulture - Cloud
+Lappet-faced Vulture - Cloud
+White-backed Vulture - Cloud
+Ruppell's Vulture - Plane
+Hooded Vulture - Plane
+Palm-nut Vulture - Plane
+King Vulture - Plane
+California Condor - Plane
+Andean Condor - Rare
+Cape Vulture - Rare
+Indian Vulture - Rare
+Slender-billed Vulture - Rare
+Red-headed Vulture - Rare
+White-headed Vulture - One in Ballolion
+Pondicherry Vulture - Rare
+
+Question: Name a type of ape
+
+Answers:
 Gorilla - Seagull
-Chimpanzee | Chimp - Seagull
-Orangutan | Orang-utan - Seagull
-Baboon - Cloud
+Chimpanzee - Seagull
+Orangutan - Seagull
+Bonobo - Seagull
 Gibbon - Cloud
-Lemur - Cloud
-Bonobo - Cloud
-Human - Plane
-Mandrill - Plane
-Macaque - Plane
-Capuchin - Plane
-Marmoset - Plane
-Tarsier - Plane
-Spider Monkey - Plane
-Howler Monkey - Plane
-Aye-aye | Aye Aye - Rare
-Loris - Rare
-Bushbaby | Galago - Rare
-Tamarin - Rare
-Langur - Rare
-Colobus - Rare
-Proboscis Monkey - Rare
-Siamang - Rare
-Gelada - One in Ballolion
-Drill - Rare
-Sifaka - Rare
-Indri - Rare
+Siamang - Cloud
+Human - Cloud
+Mountain Gorilla - Cloud
+Western Lowland Gorilla - Plane
+Eastern Lowland Gorilla - Plane
+Bornean Orangutan - Plane
+Sumatran Orangutan - Plane
+Tapanuli Orangutan - Plane
+Agile Gibbon - Rare
+Hoolock Gibbon - Rare
+Kloss's Gibbon - Rare
+Pileated Gibbon - Rare
+Yellow-cheeked Gibbon - Rare
+Northern White-cheeked Gibbon - One in Ballolion
+Cao-vit Gibbon - Rare
 
-Question: Name a type of shark
+Question: Name a type of monkey
 
 Answers:
-Great White Shark | Great White - Seagull
-Hammerhead | Hammerhead Shark - Seagull
-Tiger Shark - Seagull
-Whale Shark - Cloud
-Bull Shark - Cloud
-Mako | Shortfin Mako | Mako Shark - Cloud
-Nurse Shark - Cloud
-Blue Shark - Plane
-Thresher Shark | Thresher - Plane
-Lemon Shark - Plane
-Reef Shark - Plane
-Basking Shark - Plane
-Goblin Shark - Plane
-Megalodon - Plane
-Megamouth | Megamouth Shark - Rare
-Greenland Shark - Rare
-Cookiecutter Shark - Rare
-Wobbegong - Rare
-Angel Shark - Rare
-Frilled Shark - One in Ballolion
-Sleeper Shark - Rare
+Capuchin - Seagull
+Macaque - Seagull
+Baboon - Seagull
+Howler Monkey - Seagull
+Spider Monkey - Cloud
+Squirrel Monkey - Cloud
+Marmoset - Cloud
+Tamarin - Cloud
+Colobus - Plane
+Langur - Plane
+Proboscis Monkey - Plane
+Mandrill - Plane
+Gelada - Plane
+Uakari - Rare
+Saki Monkey - Rare
+Titi Monkey - Rare
+Night Monkey | Owl Monkey - Rare
+Patas Monkey - Rare
+Snub-nosed Monkey - One in Ballolion
+Golden Snub-nosed Monkey - Rare
+
+Question: Name a type of lemur
+
+Answers:
+Ring-tailed Lemur - Seagull
+Mouse Lemur - Seagull
+Sifaka - Seagull
+Indri - Seagull
+Aye-aye - Cloud
+Black Lemur - Cloud
+Brown Lemur - Cloud
+Red Ruffed Lemur - Cloud
+Bamboo Lemur - Plane
+Sportive Lemur - Plane
+Woolly Lemur - Plane
+Fork-marked Lemur - Plane
+Dwarf Lemur - Plane
+Giant Mouse Lemur - Rare
+Hairy-eared Dwarf Lemur - Rare
+Northern Sportive Lemur - Rare
+Lac Alaotra Bamboo Lemur - Rare
+Silky Sifaka - Rare
+Blue-eyed Black Lemur - One in Ballolion
+Perrier's Sifaka - Rare
+
+Question: Name a type of antelope
+
+Answers:
+Gazelle - Seagull
+Impala - Seagull
+Springbok - Seagull
+Kudu - Seagull
+Oryx - Cloud
+Eland - Cloud
+Wildebeest - Cloud
+Topi - Cloud
+Hartebeest - Plane
+Waterbuck - Plane
+Sable Antelope - Plane
+Roan Antelope - Plane
+Nyala - Plane
+Bongo - Rare
+Sitatunga - Rare
+Addax - Rare
+Scimitar Oryx - Rare
+Beisa Oryx - Rare
+Hirola - One in Ballolion
+Dibatag - Rare
+
+Question: Name a type of deer
+
+Answers:
+White-tailed Deer - Seagull
+Mule Deer - Seagull
+Red Deer - Seagull
+Elk | Wapiti - Seagull
+Moose - Cloud
+Reindeer | Caribou - Cloud
+Fallow Deer - Cloud
+Roe Deer - Cloud
+Sambar - Plane
+Axis Deer | Chital - Plane
+Muntjac - Plane
+Chinese Water Deer - Plane
+Pudu - Plane
+Musk Deer - Rare
+Tufted Deer - Rare
+Pere David's Deer - Rare
+Schomburgk's Deer - Rare
+Bawean Deer - Rare
+Key Deer - One in Ballolion
+Visayan Spotted Deer - Rare
+
+Question: Name a type of fox
+
+Answers:
+Red Fox - Seagull
+Arctic Fox - Seagull
+Gray Fox - Seagull
+Fennec Fox - Seagull
+Kit Fox - Cloud
+Swift Fox - Cloud
+Corsac Fox - Cloud
+Bengal Fox - Cloud
+Tibetan Fox - Plane
+Blanford's Fox - Plane
+Ruppell's Fox - Plane
+Pale Fox - Plane
+Cape Fox - Plane
+Island Fox - Rare
+Darwin's Fox - Rare
+Sechuran Fox - Rare
+Culpeo - Rare
+South American Gray Fox - Rare
+Hoary Fox - One in Ballolion
+Crab-eating Fox - Rare
+
+Question: Name a type of wolf
+
+Answers:
+Gray Wolf | Grey Wolf - Seagull
+Timber Wolf - Seagull
+Arctic Wolf - Seagull
+Red Wolf - Seagull
+Mexican Wolf - Cloud
+Ethiopian Wolf - Cloud
+Eastern Wolf - Cloud
+Indian Wolf - Cloud
+Tundra Wolf - Plane
+Steppe Wolf - Plane
+Himalayan Wolf - Plane
+Arabian Wolf - Plane
+Eurasian Wolf - Plane
+Japanese Wolf - Rare
+Honshu Wolf - Rare
+Hokkaido Wolf - Rare
+Dire Wolf - Rare
+Mammoth Wolf - Rare
+New Guinea Singing Dog - One in Ballolion
+Dingo - Rare
+
+Question: Name a type of dolphin
+
+Answers:
+Bottlenose Dolphin - Seagull
+Orca | Killer Whale - Seagull
+Spinner Dolphin - Seagull
+Common Dolphin - Seagull
+Risso's Dolphin - Cloud
+Pilot Whale - Cloud
+Beluga - Cloud
+Narwhal - Cloud
+River Dolphin - Plane
+Amazon River Dolphin | Boto - Plane
+Irrawaddy Dolphin - Plane
+Hector's Dolphin - Plane
+Maui's Dolphin - Plane
+Vaquita - Rare
+Baiji | Chinese River Dolphin - Rare
+Ganges River Dolphin - Rare
+Indus River Dolphin - Rare
+Atlantic Humpback Dolphin - Rare
+Australian Snubfin Dolphin - One in Ballolion
+Peale's Dolphin - Rare
+
+Question: Name a type of seal
+
+Answers:
+Harbor Seal - Seagull
+Grey Seal - Seagull
+Elephant Seal - Seagull
+Fur Seal - Seagull
+Leopard Seal - Cloud
+Weddell Seal - Cloud
+Crabeater Seal - Cloud
+Harp Seal - Cloud
+Bearded Seal - Plane
+Ringed Seal - Plane
+Hooded Seal - Plane
+Ross Seal - Plane
+Baikal Seal - Plane
+Caspian Seal - Rare
+Hawaiian Monk Seal - Rare
+Mediterranean Monk Seal - Rare
+Caribbean Monk Seal - Rare
+Northern Fur Seal - Rare
+Juan Fernandez Fur Seal - One in Ballolion
+Guadalupe Fur Seal - Rare
+
+Question: Name a type of bat
+
+Answers:
+Fruit Bat - Seagull
+Vampire Bat - Seagull
+Flying Fox - Seagull
+Little Brown Bat - Seagull
+Big Brown Bat - Cloud
+Horseshoe Bat - Cloud
+Leaf-nosed Bat - Cloud
+Free-tailed Bat - Cloud
+Pipistrelle - Plane
+Myotis - Plane
+Noctule - Plane
+Serotine - Plane
+Long-eared Bat - Plane
+Bumblebee Bat - Rare
+Kitti's Hog-nosed Bat - Rare
+Ghost Bat - Rare
+Spectral Bat - Rare
+Bulldog Bat - Rare
+Sucker-footed Bat - One in Ballolion
+Disc-winged Bat - Rare
+
+Question: Name a type of elephant
+
+Answers:
+African Elephant - Seagull
+Asian Elephant | Indian Elephant - Seagull
+African Bush Elephant - Seagull
+African Forest Elephant - Seagull
+Mammoth - Cloud
+Mastodon - Cloud
+Straight-tusked Elephant - Cloud
+Colombian Mammoth - Cloud
+Woolly Mammoth - Plane
+Steppe Mammoth - Plane
+Pygmy Elephant - Plane
+Borneo Elephant - Plane
+Sumatran Elephant - Plane
+Sri Lankan Elephant - Rare
+Bornean Elephant - Rare
+Chinese Elephant - Rare
+Syrian Elephant - Rare
+North African Elephant - Rare
+Cretan Dwarf Elephant - One in Ballolion
+Channel Islands Mammoth - Rare
+
+Question: Name a type of kangaroo
+
+Answers:
+Red Kangaroo - Seagull
+Eastern Grey Kangaroo - Seagull
+Western Grey Kangaroo - Seagull
+Wallaby - Seagull
+Tree Kangaroo - Cloud
+Rock Wallaby - Cloud
+Swamp Wallaby - Cloud
+Agile Wallaby - Cloud
+Antilopine Kangaroo - Plane
+Black Wallaroo - Plane
+Common Wallaroo - Plane
+Quokka - Plane
+Pademelon - Plane
+Musky Rat-kangaroo - Rare
+Bettong - Rare
+Potoroo - Rare
+Bandicoot - Rare
+Bilby - Rare
+Lumholtz's Tree-kangaroo - One in Ballolion
+Goodfellow's Tree-kangaroo - Rare
