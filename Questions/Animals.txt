@@ -51,23 +51,23 @@ Question: Name a type of bear
 Answers:
 Grizzly Bear | Grizzly - Seagull
 Polar Bear - Seagull
-Black Bear | American Black Bear - Seagull
+Black Bear | American Black Bear | Black - Seagull
 Panda | Giant Panda - Seagull
-Brown Bear - Cloud
-Kodiak Bear - Cloud
-Sun Bear - Cloud
-Sloth Bear - Cloud
-Spectacled Bear | Andean Bear - Plane
-Asiatic Black Bear | Moon Bear - Plane
-Cave Bear - Plane
-Spirit Bear - Plane
-Gobi Bear - Rare
-Marsican Bear - Rare
-Glacier Bear - Rare
-Kermode Bear - Rare
-Syrian Brown Bear - Rare
-Ussuri Brown Bear - One in Ballolion
-Formosan Black Bear - Rare
+Brown Bear | Bear - Cloud
+Kodiak Bear | Kodiak - Cloud
+Sun Bear | Sun - Cloud
+Sloth Bear | Sloth - Cloud
+Spectacled Bear | Andean Bear | Andean - Plane
+Asiatic Black Bear | Moon Bear | Asiatic- Plane
+Cave Bear | Cave - Plane
+Spirit Bear | Spirit - Plane
+Gobi Bear | Gobi - Rare
+Marsican Bear | Marsican Bear - Rare
+Glacier Bear | Glacier - Rare
+Kermode Bear | Kermode - Rare
+Syrian Brown Bear | Syrian - Rare
+Ussuri Brown Bear | Ussuri - One in Ballolion
+Formosan Black Bear | Formosan - Rare
 
 Question: Name a type of whale
 
