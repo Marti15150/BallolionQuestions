@@ -177,7 +177,7 @@ JavaScript - Seagull
 Java - Seagull
 C++ - Seagull
 C - Cloud
-C# - Cloud
+C# | C # | C Sharp | Assembly C# - Cloud
 PHP - Cloud
 Ruby - Cloud
 Swift - Cloud
@@ -365,3 +365,287 @@ The Two Gentlemen of Verona - Rare
 Timon of Athens - One in Ballolion
 Pericles - Rare
 The Two Noble Kinsmen - Rare
+
+Question: Name a country in Europe
+
+Answers:
+France - Seagull
+Germany - Seagull
+Italy - Seagull
+Spain - Seagull
+United Kingdom | UK - Seagull
+Poland - Seagull
+Ukraine - Seagull
+Romania - Seagull
+Netherlands - Cloud
+Belgium - Cloud
+Greece - Cloud
+Portugal - Cloud
+Sweden - Cloud
+Hungary - Cloud
+Austria - Cloud
+Switzerland - Cloud
+Bulgaria - Cloud
+Serbia - Cloud
+Denmark - Cloud
+Finland - Cloud
+Slovakia - Cloud
+Norway - Cloud
+Ireland - Cloud
+Croatia - Cloud
+Moldova - Plane
+Bosnia and Herzegovina | Bosnia - Plane
+Albania - Plane
+Lithuania - Plane
+North Macedonia | Macedonia - Plane
+Slovenia - Plane
+Latvia - Plane
+Estonia - Plane
+Montenegro - Plane
+Luxembourg - Plane
+Malta - Plane
+Iceland - Plane
+Andorra - Plane
+Monaco - Plane
+Liechtenstein - Plane
+San Marino - Plane
+Vatican City | Vatican - Plane
+Belarus - Plane
+Czech Republic | Czechia - Plane
+Cyprus - Plane
+Kosovo - Rare
+Faroe Islands - Rare
+Gibraltar - Rare
+Isle of Man - Rare
+Liechtenstein - One in Ballolion
+Greenland - Rare
+
+Question: Name a classical composer
+
+Answers:
+Beethoven - Seagull
+Mozart - Seagull
+Bach - Seagull
+Chopin - Seagull
+Vivaldi - Seagull
+Tchaikovsky - Cloud
+Brahms - Cloud
+Schubert - Cloud
+Debussy - Cloud
+Handel - Cloud
+Haydn - Cloud
+Liszt - Cloud
+Wagner - Cloud
+Verdi - Cloud
+Rachmaninoff - Plane
+Stravinsky - Plane
+Mendelssohn - Plane
+Schumann - Plane
+Strauss - Plane
+Mahler - Plane
+Puccini - Plane
+Sibelius - Plane
+Dvorak - Plane
+Grieg - Plane
+Berlioz - Plane
+Saint-Saens - Plane
+Rimsky-Korsakov - Plane
+Elgar - Plane
+Prokofiev - Plane
+Shostakovich - Plane
+Ravel - Plane
+Satie - Plane
+Paganini - Plane
+Monteverdi - Plane
+Holst - Plane
+Gershwin - Rare
+Copland - Rare
+Vaughan Williams - Rare
+Scriabin - Rare
+Bruckner - Rare
+Rossini - Rare
+Donizetti - Rare
+Bellini - Rare
+Bizet - Rare
+Mussorgsky - Rare
+Borodin - Rare
+Khachaturian - Rare
+Villa-Lobos - Rare
+Poulenc - Rare
+Britten - Rare
+Orff - Rare
+Enescu - Rare
+Janacek - Rare
+Smetana - Rare
+Scarlatti - Rare
+Telemann - Rare
+Purcell - Rare
+Palestrina - Rare
+Josquin - Rare
+Ockeghem - One in Ballolion
+
+Question: Name a planet in our Solar System
+
+Answers:
+Mars - Seagull
+Venus - Seagull
+Jupiter - Seagull
+Saturn - Seagull
+Earth - Seagull
+Mercury - Cloud
+Uranus - Cloud
+Neptune - Cloud
+Pluto - Plane
+Eris - Plane
+Haumea - Plane
+Makemake - Plane
+Ceres - Plane
+Titan - Rare
+Ganymede - Rare
+Europa - Rare
+Io - Rare
+Enceladus - Rare
+Triton - Rare
+Callisto - Rare
+Mimas - Rare
+Oberon - Rare
+Titania - Rare
+Miranda - Rare
+Ariel - Rare
+Umbriel - Rare
+Phobos - Rare
+Deimos - Rare
+Charon - Rare
+Sedna - Rare
+Quaoar - Rare
+Orcus - Rare
+Gonggong - Rare
+Vesta - Rare
+Pallas - Rare
+Juno - Rare
+Hygiea - Rare
+Bennu - Rare
+Ryugu - Rare
+Halley - Rare
+Oumuamua - Rare
+Borrelly - Rare
+Encke - Rare
+Hale-Bopp - Rare
+Hyakutake - Rare
+Shoemaker-Levy - One in Ballolion
+C1 - Rare
+Neowise - Rare
+Gaspar - Rare
+Ida - Rare
+
+Question: Name a Shakespearean tragedy
+
+Answers:
+Hamlet - Seagull
+Macbeth - Seagull
+Othello - Seagull
+Romeo and Juliet - Seagull
+King Lear - Cloud
+Julius Caesar - Cloud
+Antony and Cleopatra - Cloud
+Coriolanus - Cloud
+Titus Andronicus - Cloud
+Timon of Athens - Plane
+Troilus and Cressida - Plane
+Cymbeline - Plane
+Pericles - Plane
+Richard III - Plane
+Richard II - Plane
+King John - Plane
+Henry IV - Plane
+Henry V - Plane
+Henry VI - Plane
+Henry VIII - Plane
+Titus - Rare
+The Tempest - Rare
+A Midsummer Night's Dream - Rare
+The Winter's Tale - Rare
+Corolianus - Rare
+Julius - Rare
+Mac - Rare
+Oth - Rare
+Ham - Rare
+Antony - Rare
+Kleopatra - Rare
+Coriol - Rare
+Lear - One in Ballolion
+Tullus - Rare
+Aufidius - Rare
+
+Question: Name a Nobel Prize category
+
+Answers:
+Peace - Seagull
+Physics - Seagull
+Chemistry - Seagull
+Medicine | Physiology - Seagull
+Literature - Seagull
+Economics - Cloud
+Mathematics - Plane
+Computer Science - Plane
+Biology - Plane
+Psychology - Plane
+History - Plane
+Philosophy - Plane
+Astronomy - Plane
+Sociology - Plane
+Geology - Plane
+Music - Plane
+Art - Plane
+Architecture - Plane
+Engineering - Plane
+Law - Plane
+Journalism - Plane
+Education - Plane
+Anthropology - Plane
+Archaeology - Plane
+Linguistics - Plane
+Political Science - Plane
+Theater - Plane
+Film - Plane
+Agriculture - Plane
+Environmental Science - Plane
+Meteorology - Plane
+Oceanography - Plane
+Pharmacology - Plane
+Immunology - Plane
+Genetics - Plane
+Biochemistry - Plane
+Zoology - Plane
+Botany - Plane
+Ecology - Plane
+Paleontology - Plane
+Astronautics - Plane
+Cybernetics - Plane
+Statistics - Plane
+Logic - Plane
+Theology - Plane
+Musicology - Plane
+Cartography - Plane
+Cryptology - Plane
+Bibliotics - Rare
+Kinematics - Rare
+Hydrology - Rare
+Seismology - Rare
+Volcanology - Rare
+Glaciology - Rare
+Climatology - Rare
+Epidemiology - Rare
+Toxicology - Rare
+Virology - Rare
+Mycology - Rare
+Bacteriology - Rare
+Parasitology - Rare
+Endocrinology - Rare
+Hematology - Rare
+Cardiology - Rare
+Neurology - Rare
+Dermatology - Rare
+Pediatrics - Rare
+Geriatrics - Rare
+Oncology - One in Ballolion
