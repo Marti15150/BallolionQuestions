@@ -458,6 +458,7 @@ Iriomote Cat - Rare
 Question: Name a type of horse
 
 Answers:
+Pony | - Seagull
 Thoroughbred - Seagull
 Arabian - Seagull
 Quarter Horse - Seagull
