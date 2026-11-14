@@ -218,3 +218,699 @@ Trachea - Rare
 Thymus - One in Ballolion
 Adrenal Gland - Rare
 Pituitary Gland - Rare
+
+Question: Name a type of scientific instrument
+
+Answers:
+Microscope - Seagull
+Telescope - Seagull
+Thermometer - Seagull
+Barometer - Seagull
+Stethoscope - Cloud
+Compass - Cloud
+Binoculars - Cloud
+Stopwatch - Cloud
+Spectrometer - Plane
+Oscilloscope - Plane
+Seismograph - Plane
+Calorimeter - Plane
+Geiger Counter - Rare
+Interferometer - Rare
+Electroscope - Rare
+Manometer - Rare
+Polarimeter - Rare
+Photometer - Rare
+Mass Spectrometer - Rare
+Michelson Interferometer - One in Ballolion
+
+Question: Name a type of energy
+
+Answers:
+Kinetic Energy - Seagull
+Potential Energy - Seagull
+Solar Energy - Seagull
+Thermal Energy - Seagull
+Electrical Energy - Cloud
+Chemical Energy - Cloud
+Nuclear Energy - Cloud
+Light Energy - Cloud
+Sound Energy - Plane
+Mechanical Energy - Plane
+Wind Energy - Plane
+Geothermal Energy - Plane
+Elastic Energy - Rare
+Magnetic Energy - Rare
+Gravitational Energy - Rare
+Radiant Energy - Rare
+Hydroelectric Energy - Rare
+Tidal Energy - Rare
+Osmotic Energy - Rare
+Zero-Point Energy - One in Ballolion
+
+Question: Name a type of cloud
+
+Answers:
+Cumulus - Seagull
+Stratus - Seagull
+Cirrus - Seagull
+Cumulonimbus - Seagull
+Altocumulus - Cloud
+Altostratus - Cloud
+Nimbostratus - Cloud
+Cirrostratus - Cloud
+Cirrocumulus - Plane
+Stratocumulus - Plane
+Lenticular Cloud - Plane
+Mammatus Cloud - Rare
+Noctilucent Cloud - Rare
+Polar Stratospheric Cloud - Rare
+Pileus Cloud - Rare
+Kelvin-Helmholtz Cloud - Rare
+Asperitas Cloud - Rare
+Contrail - Rare
+Roll Cloud - Rare
+Morning Glory Cloud - One in Ballolion
+
+Question: Name a type of galaxy
+
+Answers:
+Spiral Galaxy - Seagull
+Elliptical Galaxy - Seagull
+Irregular Galaxy - Seagull
+Milky Way - Seagull
+Andromeda Galaxy - Cloud
+Dwarf Galaxy - Cloud
+Barred Spiral Galaxy - Cloud
+Lenticular Galaxy - Cloud
+Ring Galaxy - Plane
+Starburst Galaxy - Plane
+Seyfert Galaxy - Plane
+Compact Galaxy - Plane
+Ultra-Diffuse Galaxy - Rare
+Quasar Host Galaxy - Rare
+Wolf-Rayet Galaxy - Rare
+Tadpole Galaxy - Rare
+Hoag's Object - Rare
+Cartwheel Galaxy - Rare
+Sombrero Galaxy - Rare
+Malin 1 - One in Ballolion
+
+Question: Name a type of rock
+
+Answers:
+Granite - Seagull
+Marble - Seagull
+Limestone - Seagull
+Sandstone - Seagull
+Basalt - Cloud
+Slate - Cloud
+Obsidian - Cloud
+Quartzite - Cloud
+Pumice - Plane
+Gneiss - Plane
+Schist - Plane
+Shale - Plane
+Travertine - Rare
+Conglomerate - Rare
+Breccia - Rare
+Amphibolite - Rare
+Serpentinite - Rare
+Pegmatite - Rare
+Komatiite - Rare
+Tektite - One in Ballolion
+
+Question: Name a type of fossil
+
+Answers:
+Dinosaur Fossil - Seagull
+Ammonite - Seagull
+Trilobite - Seagull
+Petrified Wood - Seagull
+Fossilized Shell - Cloud
+Mammoth Fossil - Cloud
+Fern Fossil - Cloud
+Fish Fossil - Cloud
+Coprolite - Plane
+Amber Fossil - Plane
+Brachiopod Fossil - Plane
+Crinoid Fossil - Plane
+Eurypterid - Rare
+Fossilized Footprint - Rare
+Graptolite - Rare
+Belemnite - Rare
+Fossilized Coral - Rare
+Mazon Creek Fossil - Rare
+Burgess Shale Fossil - Rare
+Dunkleosteus Fossil - One in Ballolion
+
+Question: Name a layer of the Earth
+
+Answers:
+Crust - Seagull
+Mantle - Seagull
+Outer Core - Seagull
+Inner Core - Seagull
+Lithosphere - Cloud
+Asthenosphere - Cloud
+Mesosphere - Cloud
+Upper Mantle - Cloud
+Lower Mantle - Plane
+Transition Zone - Plane
+Continental Crust - Plane
+Oceanic Crust - Plane
+D Layer - Rare
+Gutenberg Discontinuity - Rare
+Mohorovičić Discontinuity - Rare
+Lehmann Discontinuity - Rare
+Core-Mantle Boundary - Rare
+Lithospheric Mantle - Rare
+Brittle Lithosphere - Rare
+Ultra-Low Velocity Zone - One in Ballolion
+
+Question: Name a type of particle
+
+Answers:
+Electron - Seagull
+Proton - Seagull
+Neutron - Seagull
+Photon - Seagull
+Quark - Cloud
+Neutrino - Cloud
+Positron - Cloud
+Muon - Cloud
+Gluon - Plane
+Boson - Plane
+Lepton - Plane
+Hadron - Plane
+Tau Particle - Rare
+Graviton - Rare
+Higgs Boson - Rare
+Pion - Rare
+Kaon - Rare
+W Boson - Rare
+Z Boson - Rare
+Majorana Fermion - One in Ballolion
+
+Question: Name a branch of physics
+
+Answers:
+Mechanics - Seagull
+Optics - Seagull
+Thermodynamics - Seagull
+Electromagnetism - Seagull
+Quantum Physics - Cloud
+Nuclear Physics - Cloud
+Astrophysics - Cloud
+Acoustics - Cloud
+Fluid Mechanics - Plane
+Particle Physics - Plane
+Relativity - Plane
+Solid State Physics - Plane
+Plasma Physics - Rare
+Biophysics - Rare
+Geophysics - Rare
+Statistical Mechanics - Rare
+Condensed Matter Physics - Rare
+Nonlinear Dynamics - Rare
+Quantum Field Theory - Rare
+Loop Quantum Gravity - One in Ballolion
+
+Question: Name a type of telescope
+
+Answers:
+Refracting Telescope - Seagull
+Reflecting Telescope - Seagull
+Radio Telescope - Seagull
+Space Telescope - Seagull
+Hubble Space Telescope - Cloud
+James Webb Space Telescope - Cloud
+Solar Telescope - Cloud
+Infrared Telescope - Cloud
+X-Ray Telescope - Plane
+Ultraviolet Telescope - Plane
+Newtonian Telescope - Plane
+Dobsonian Telescope - Plane
+Schmidt-Cassegrain Telescope - Rare
+Cassegrain Telescope - Rare
+Gregorian Telescope - Rare
+Catadioptric Telescope - Rare
+Very Large Telescope - Rare
+Event Horizon Telescope - Rare
+Chandra X-Ray Observatory - Rare
+Extremely Large Telescope - One in Ballolion
+
+Question: Name a type of scientific law
+
+Answers:
+Law of Gravity - Seagull
+Newton's First Law - Seagull
+Newton's Second Law - Seagull
+Newton's Third Law - Seagull
+Ohm's Law - Cloud
+Boyle's Law - Cloud
+Charles's Law - Cloud
+Hooke's Law - Cloud
+Kepler's Laws - Plane
+Snell's Law - Plane
+Faraday's Law - Plane
+Coulomb's Law - Plane
+Hubble's Law - Rare
+Avogadro's Law - Rare
+Hess's Law - Rare
+Henry's Law - Rare
+Raoult's Law - Rare
+Fick's Law - Rare
+Stefan-Boltzmann Law - Rare
+Wiedemann-Franz Law - One in Ballolion
+
+Question: Name a type of cell
+
+Answers:
+Red Blood Cell - Seagull
+White Blood Cell - Seagull
+Nerve Cell - Seagull
+Muscle Cell - Seagull
+Stem Cell - Cloud
+Skin Cell - Cloud
+Bone Cell - Cloud
+Fat Cell - Cloud
+Egg Cell - Plane
+Sperm Cell - Plane
+Platelet - Plane
+Liver Cell - Plane
+Osteocyte - Rare
+Chondrocyte - Rare
+Macrophage - Rare
+Fibroblast - Rare
+Keratinocyte - Rare
+Melanocyte - Rare
+Microglia - Rare
+Purkinje Cell - One in Ballolion
+
+Question: Name a type of chemical bond
+
+Answers:
+Ionic Bond - Seagull
+Covalent Bond - Seagull
+Metallic Bond - Seagull
+Hydrogen Bond - Seagull
+Polar Covalent Bond - Cloud
+Nonpolar Covalent Bond - Cloud
+Double Bond - Cloud
+Triple Bond - Cloud
+Single Bond - Plane
+Coordinate Bond - Plane
+Peptide Bond - Plane
+Disulfide Bond - Plane
+Glycosidic Bond - Rare
+Phosphodiester Bond - Rare
+Pi Bond - Rare
+Sigma Bond - Rare
+Van der Waals Interaction - Rare
+Dipole-Dipole Interaction - Rare
+Halogen Bond - Rare
+Aurophilic Bond - One in Ballolion
+
+Question: Name a type of scientific measurement
+
+Answers:
+Length - Seagull
+Mass - Seagull
+Time - Seagull
+Temperature - Seagull
+Volume - Cloud
+Density - Cloud
+Pressure - Cloud
+Speed - Cloud
+Acceleration - Plane
+Force - Plane
+Energy - Plane
+Power - Plane
+Electric Current - Rare
+Magnetic Flux - Rare
+Luminous Intensity - Rare
+Molar Concentration - Rare
+Refractive Index - Rare
+Radioactivity - Rare
+Electrical Resistance - Rare
+Planck Constant - One in Ballolion
+
+Question: Name a type of bacteria
+
+Answers:
+E. Coli - Seagull
+Salmonella - Seagull
+Lactobacillus - Seagull
+Streptococcus - Seagull
+Staphylococcus - Cloud
+Bacillus - Cloud
+Helicobacter Pylori - Cloud
+Clostridium - Cloud
+Bifidobacterium - Plane
+Neisseria - Plane
+Pseudomonas - Plane
+Listeria - Plane
+Mycoplasma - Rare
+Cyanobacteria - Rare
+Deinococcus Radiodurans - Rare
+Borrelia - Rare
+Vibrio Cholerae - Rare
+Thermus Aquaticus - Rare
+Magnetospirillum - Rare
+Thiomargarita Namibiensis - One in Ballolion
+
+Question: Name a type of chemical reaction
+
+Answers:
+Combustion - Seagull
+Oxidation - Seagull
+Reduction - Seagull
+Neutralization - Seagull
+Synthesis - Cloud
+Decomposition - Cloud
+Displacement - Cloud
+Double Displacement - Cloud
+Precipitation - Plane
+Acid-Base Reaction - Plane
+Hydrolysis - Plane
+Polymerization - Plane
+Esterification - Rare
+Saponification - Rare
+Fermentation - Rare
+Condensation Reaction - Rare
+Photochemical Reaction - Rare
+Redox Reaction - Rare
+Electrolysis - Rare
+Metathesis Reaction - One in Ballolion
+
+Question: Name a type of scientific theory
+
+Answers:
+Theory of Evolution - Seagull
+Big Bang Theory - Seagull
+Theory of Relativity - Seagull
+Cell Theory - Seagull
+Germ Theory - Cloud
+Atomic Theory - Cloud
+Plate Tectonics Theory - Cloud
+Quantum Theory - Cloud
+String Theory - Plane
+Chaos Theory - Plane
+Kinetic Theory - Plane
+Game Theory - Plane
+M Theory - Rare
+Inflationary Theory - Rare
+Endosymbiotic Theory - Rare
+Punctuated Equilibrium - Rare
+Neutrino Oscillation Theory - Rare
+Steady State Theory - Rare
+Simulation Hypothesis - Rare
+Many-Worlds Interpretation - One in Ballolion
+
+Question: Name a type of laboratory equipment
+
+Answers:
+Test Tube - Seagull
+Beaker - Seagull
+Bunsen Burner - Seagull
+Petri Dish - Seagull
+Graduated Cylinder - Cloud
+Pipette - Cloud
+Funnel - Cloud
+Erlenmeyer Flask - Cloud
+Burette - Plane
+Crucible - Plane
+Mortar and Pestle - Plane
+Watch Glass - Plane
+Separatory Funnel - Rare
+Condenser - Rare
+Desiccator - Rare
+Soxhlet Extractor - Rare
+Rotary Evaporator - Rare
+Centrifuge - Rare
+Autoclave - Rare
+Kjeldahl Apparatus - One in Ballolion
+
+Question: Name a type of scientific field
+
+Answers:
+Biology - Seagull
+Chemistry - Seagull
+Physics - Seagull
+Astronomy - Seagull
+Geology - Cloud
+Ecology - Cloud
+Zoology - Cloud
+Botany - Cloud
+Microbiology - Plane
+Genetics - Plane
+Paleontology - Plane
+Meteorology - Plane
+Oceanography - Rare
+Seismology - Rare
+Entomology - Rare
+Virology - Rare
+Mycology - Rare
+Crystallography - Rare
+Astrobiology - Rare
+Exoplanetology - One in Ballolion
+
+Question: Name a type of natural disaster
+
+Answers:
+Earthquake - Seagull
+Flood - Seagull
+Hurricane - Seagull
+Tornado - Seagull
+Tsunami - Cloud
+Volcanic Eruption - Cloud
+Wildfire - Cloud
+Drought - Cloud
+Avalanche - Plane
+Landslide - Plane
+Blizzard - Plane
+Heatwave - Plane
+Sinkhole - Rare
+Dust Storm - Rare
+Ice Storm - Rare
+Mudslide - Rare
+Glacial Lake Outburst Flood - Rare
+Pyroclastic Flow - Rare
+Limnic Eruption - Rare
+Megathrust Earthquake - One in Ballolion
+
+Question: Name a type of astronomical object
+
+Answers:
+Star - Seagull
+Planet - Seagull
+Moon - Seagull
+Asteroid - Seagull
+Comet - Cloud
+Nebula - Cloud
+Black Hole - Cloud
+Galaxy - Cloud
+Pulsar - Plane
+Quasar - Plane
+White Dwarf - Plane
+Neutron Star - Plane
+Red Giant - Rare
+Brown Dwarf - Rare
+Magnetar - Rare
+Supernova Remnant - Rare
+Globular Cluster - Rare
+Dark Nebula - Rare
+Blazar - Rare
+Thorne-Żytkow Object - One in Ballolion
+
+Question: Name a type of scientific process
+
+Answers:
+Observation - Seagull
+Experiment - Seagull
+Hypothesis - Seagull
+Measurement - Seagull
+Data Analysis - Cloud
+Peer Review - Cloud
+Replication - Cloud
+Simulation - Cloud
+Calibration - Plane
+Modeling - Plane
+Sampling - Plane
+Classification - Plane
+Spectroscopy - Rare
+Chromatography - Rare
+Crystallization - Rare
+Titration - Rare
+Centrifugation - Rare
+Electrophoresis - Rare
+Tomography - Rare
+Cryo-Electron Microscopy - One in Ballolion
+
+Question: Name a type of microorganism
+
+Answers:
+Bacteria - Seagull
+Virus - Seagull
+Fungus - Seagull
+Protozoa - Seagull
+Algae - Cloud
+Yeast - Cloud
+Archaea - Cloud
+Mold - Cloud
+Amoeba - Plane
+Paramecium - Plane
+Plankton - Plane
+Diatom - Plane
+Radiolaria - Rare
+Foraminifera - Rare
+Dinoflagellate - Rare
+Ciliate - Rare
+Tardigrade - Rare
+Rotifer - Rare
+Euglena - Rare
+Halophile - One in Ballolion
+
+Question: Name a type of scientist
+
+Answers:
+Biologist - Seagull
+Chemist - Seagull
+Physicist - Seagull
+Astronomer - Seagull
+Geologist - Cloud
+Zoologist - Cloud
+Botanist - Cloud
+Meteorologist - Cloud
+Microbiologist - Plane
+Geneticist - Plane
+Ecologist - Plane
+Paleontologist - Plane
+Entomologist - Rare
+Virologist - Rare
+Mycologist - Rare
+Seismologist - Rare
+Oceanographer - Rare
+Astrobiologist - Rare
+Crystallographer - Rare
+Planetary Scientist - One in Ballolion
+
+Question: Name a type of scientific model
+
+Answers:
+Globe - Seagull
+Solar System Model - Seagull
+Atom Model - Seagull
+DNA Model - Seagull
+Cell Model - Cloud
+Molecular Model - Cloud
+Climate Model - Cloud
+Weather Model - Cloud
+Scale Model - Plane
+Computer Model - Plane
+Geological Model - Plane
+Ecosystem Model - Plane
+Quantum Model - Rare
+Hydrological Model - Rare
+Epidemiological Model - Rare
+Cosmological Model - Rare
+Finite Element Model - Rare
+Agent-Based Model - Rare
+Computational Fluid Dynamics Model - Rare
+Ising Model - One in Ballolion
+
+Question: Name a type of fossil fuel
+
+Answers:
+Coal - Seagull
+Oil - Seagull
+Natural Gas - Seagull
+Lignite - Seagull
+Anthracite - Cloud
+Bitumen - Cloud
+Peat - Cloud
+Shale Oil - Cloud
+Oil Sands - Plane
+Shale Gas - Plane
+Coke - Plane
+Petroleum Coke - Plane
+Condensate - Rare
+Coalbed Methane - Rare
+Tight Gas - Rare
+Heavy Fuel Oil - Rare
+Orimulsion - Rare
+Kerogen - Rare
+Asphaltite - Rare
+Torbanite - One in Ballolion
+
+Question: Name a type of wave
+
+Answers:
+Sound Wave - Seagull
+Light Wave - Seagull
+Water Wave - Seagull
+Radio Wave - Seagull
+Microwave - Cloud
+X-Ray - Cloud
+Gamma Ray - Cloud
+Infrared Wave - Cloud
+Ultraviolet Wave - Plane
+Seismic Wave - Plane
+Gravitational Wave - Plane
+Transverse Wave - Plane
+Longitudinal Wave - Rare
+Standing Wave - Rare
+Shock Wave - Rare
+Surface Wave - Rare
+Matter Wave - Rare
+Rossby Wave - Rare
+Kelvin Wave - Rare
+Alfvén Wave - One in Ballolion
+
+Question: Name a type of scientific constant
+
+Answers:
+Speed of Light - Seagull
+Gravitational Constant - Seagull
+Planck Constant - Seagull
+Avogadro Constant - Seagull
+Boltzmann Constant - Cloud
+Gas Constant - Cloud
+Faraday Constant - Cloud
+Elementary Charge - Cloud
+Fine-Structure Constant - Plane
+Stefan-Boltzmann Constant - Plane
+Rydberg Constant - Plane
+Permittivity of Free Space - Plane
+Magnetic Constant - Rare
+Dirac Constant - Rare
+Euler's Number - Rare
+Golden Ratio - Rare
+Feigenbaum Constant - Rare
+Catalan's Constant - Rare
+von Klitzing Constant - Rare
+Glaisher-Kinkelin Constant - One in Ballolion
+
+Question: Name a type of scientific imaging technique
+
+Answers:
+X-Ray Imaging - Seagull
+MRI - Seagull
+Ultrasound - Seagull
+CT Scan - Seagull
+PET Scan - Cloud
+Electron Microscopy - Cloud
+Fluorescence Microscopy - Cloud
+Thermal Imaging - Cloud
+Confocal Microscopy - Plane
+Atomic Force Microscopy - Plane
+Scanning Electron Microscopy - Plane
+Transmission Electron Microscopy - Plane
+Positron Emission Tomography - Rare
+Magnetic Resonance Spectroscopy - Rare
+Cryo-Electron Tomography - Rare
+Optical Coherence Tomography - Rare
+Structured Illumination Microscopy - Rare
+Light-Sheet Microscopy - Rare
+Super-Resolution Microscopy - Rare
+STED Microscopy - One in Ballolion
