@@ -324,7 +324,7 @@ December - Seagull
 January - Seagull
 August - Cloud
 March - Cloud
-May - Cloud
+May - Rare
 October - One in Ballolion
 
 Question: Name a play written by William Shakespeare
@@ -777,9 +777,9 @@ Kangchenjunga - One in Ballolion
 Question: Name a browser
 
 Answers:
-Google Chrome - Seagull
-Mozilla Firefox - Seagull
-Microsoft Edge - Seagull
+Google Chrome | Chrome - Seagull
+Mozilla Firefox | Firefox - Seagull
+Microsoft Edge | Edge - Seagull
 Safari - Cloud
 Opera - Cloud
 Brave - Cloud
